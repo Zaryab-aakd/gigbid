@@ -1,0 +1,2402 @@
+[
+  {
+    "proposal_id": "prop-ai-001",
+    "job_title": "Need expert for LangGraph project",
+    "skills_referenced": [
+      "LangGraph",
+      "FastAPI",
+      "Redis",
+      "Python"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with LangGraph and FastAPI. In my recent project 'Enterprise Multi-Agent Customer Support System', I solved this exact challenge: Built a multi-agent triage and resolution network using LangGraph and FastAPI, reducing response time by 64% and serving 100k daily queries. The result was Production deployed across 12 countries. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-002",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pinecone",
+      "BGE Reranker",
+      "LangChain"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, Pinecone, BGE Reranker, LangChain, including delivering 'High-Throughput Hybrid RAG Pipeline for Legal Contracts'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-003",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Kafka",
+      "LightGBM",
+      "Docker"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and Kafka. In my recent project 'Real-Time Fraud Detection Engine on Financial Streams', I solved this exact challenge: Engineered XGBoost & LightGBM streaming inference system processing 45,000 tx/sec with under 15ms latency. The result was Saved client $1.4M in fraudulent chargebacks in Q1. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-004",
+    "job_title": "Need expert for vLLM project",
+    "skills_referenced": [
+      "vLLM",
+      "Ray",
+      "Kubernetes",
+      "PyTorch"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding vLLM. I have substantial background in vLLM, Ray, Kubernetes, PyTorch, including delivering 'Self-Hosted LLM Inference Cluster with vLLM & Ray'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-005",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "scikit-learn",
+      "FastAPI",
+      "Postgres"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, scikit-learn, FastAPI, Postgres, including delivering 'Predictive Churn Model and Retention Dashboard'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-006",
+    "job_title": "Need expert for PyTorch project",
+    "skills_referenced": [
+      "PyTorch",
+      "HuggingFace",
+      "LoRA",
+      "Docker"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with PyTorch and HuggingFace. In my recent project 'Automated Clinical Trial Data Extraction using Medical LLMs', I solved this exact challenge: Fine-tuned Med-Llama on clinical documents, implementing strict JSON output parsing and medical entity grounding. The result was Processed 40,000 clinical abstracts with 96% F1. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-007",
+    "job_title": "Need expert for Neo4j project",
+    "skills_referenced": [
+      "Neo4j",
+      "LangChain",
+      "Python",
+      "GraphRAG"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Neo4j and LangChain. In my recent project 'GraphRAG Knowledge Engine for Biomedical Research', I solved this exact challenge: Constructed Neo4j knowledge graph coupled with LangChain agents to extract protein-disease interactions from PubMed. The result was Adopted by biotech research division. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-008",
+    "job_title": "Need expert for YOLOv8 project",
+    "skills_referenced": [
+      "YOLOv8",
+      "TensorRT",
+      "OpenCV",
+      "Python"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding YOLOv8. I have substantial background in YOLOv8, TensorRT, OpenCV, Python, including delivering 'Edge Computer Vision Quality Inspection in Manufacturing'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-009",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "PyTorch Forecasting",
+      "AWS S3",
+      "Docker"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, PyTorch Forecasting, AWS S3, Docker, including delivering 'Time-Series Forecasting for Retail Supply Chain'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-010",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "LangGraph",
+      "GitHub API",
+      "FastAPI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and LangGraph. In my recent project 'Agentic Code Review & Security Audit Bot', I solved this exact challenge: Created GitHub Action integration with LangGraph agent verifying PR compliance, AST analysis, and security vulnerabilities. The result was Merged into 40+ enterprise repos, reviewing 500 PRs/week. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-011",
+    "job_title": "Need expert for CLIP project",
+    "skills_referenced": [
+      "CLIP",
+      "Qdrant",
+      "FastAPI",
+      "Python"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with CLIP and Qdrant. In my recent project 'Multi-Modal Product Search & Visual Recommendation', I solved this exact challenge: Built multimodal CLIP-based embedding search enabling reverse-image product discovery for e-commerce client. The result was Boosted search-to-cart conversion rate by 19%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-012",
+    "job_title": "Need expert for WebSockets project",
+    "skills_referenced": [
+      "WebSockets",
+      "FastAPI",
+      "Whisper",
+      "Python"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with WebSockets and FastAPI. In my recent project 'Voice-Enabled AI Dispatch Assistant with Live Audio API', I solved this exact challenge: Developed low-latency WebSocket speech-to-speech assistant for logistics dispatchers using Whisper and Kokoro TTS. The result was Average call handling time dropped by 4.2 minutes. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-013",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SpaCy",
+      "Presidio",
+      "FastAPI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and SpaCy. In my recent project 'Document Anonymization & PII Redaction Pipeline', I solved this exact challenge: Engineered high-speed Presidio-based NER and regex redaction pipeline processing millions of HIPAA-regulated medical records. The result was Zero PII leakage on 100k audit batch. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-014",
+    "job_title": "Need expert for Unsloth project",
+    "skills_referenced": [
+      "Unsloth",
+      "LoRA",
+      "HuggingFace",
+      "vLLM"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Unsloth. I have substantial background in Unsloth, LoRA, HuggingFace, vLLM, including delivering 'Fine-Tuned Function-Calling Specialist Model'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-015",
+    "job_title": "Need expert for Redis project",
+    "skills_referenced": [
+      "Redis",
+      "Python",
+      "FastAPI",
+      "LangChain"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-016",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "CTGAN",
+      "scikit-learn",
+      "Postgres"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and CTGAN. In my recent project 'Synthetic Tabular Data Generator with CTGAN', I solved this exact challenge: Designed privacy-preserving synthetic data generation platform for banking risk modeling using Conditional GANs. The result was Passed strict regulatory privacy audits. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-017",
+    "job_title": "Need expert for BGE-M3 project",
+    "skills_referenced": [
+      "BGE-M3",
+      "FastAPI",
+      "Docker",
+      "Python"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with BGE-M3 and FastAPI. In my recent project 'Multilingual Semantic FAQ Search for Government Agency', I solved this exact challenge: Deployed multilingual BGE-M3 embedding search serving citizen queries in 14 languages with reciprocal rank fusion. The result was Served 2 million requests with 99.9% uptime. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-018",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Playwright",
+      "FastAPI",
+      "Postgres"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and Playwright. In my recent project 'Autonomous Web Scraping & Trend Intelligence Bot', I solved this exact challenge: Built resilient Playwright crawling pipeline with automated proxy rotation and structured markdown summarization. The result was Monitored 1,200 competitor pricing pages daily. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-019",
+    "job_title": "Need expert for MLflow project",
+    "skills_referenced": [
+      "MLflow",
+      "Feast",
+      "AWS",
+      "Docker"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with MLflow and Feast. In my recent project 'End-to-End MLOps Pipeline with Feast & MLflow', I solved this exact challenge: Standardized enterprise feature store and experiment tracking pipeline on AWS, managing 50+ production ML models. The result was Reduced model deployment cycle from 6 weeks to 3 days. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-020",
+    "job_title": "Need expert for LangGraph project",
+    "skills_referenced": [
+      "LangGraph",
+      "FastAPI",
+      "Python",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-021",
+    "job_title": "Need expert for LangGraph project",
+    "skills_referenced": [
+      "LangGraph",
+      "FastAPI",
+      "Redis",
+      "Python"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding LangGraph. I have substantial background in LangGraph, FastAPI, Redis, Python, including delivering 'Enterprise Multi-Agent Customer Support System'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-022",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pinecone",
+      "BGE Reranker",
+      "LangChain"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-023",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Kafka",
+      "LightGBM",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-024",
+    "job_title": "Need expert for vLLM project",
+    "skills_referenced": [
+      "vLLM",
+      "Ray",
+      "Kubernetes",
+      "PyTorch"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with vLLM and Ray. In my recent project 'Self-Hosted LLM Inference Cluster with vLLM & Ray', I solved this exact challenge: Configured scalable 8x A100 GPU cluster deploying Qwen and Llama-3 models with continuous batching and PagedAttention. The result was Cut external OpenAI API costs by 72%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-025",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "scikit-learn",
+      "FastAPI",
+      "Postgres"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-026",
+    "job_title": "Need expert for PyTorch project",
+    "skills_referenced": [
+      "PyTorch",
+      "HuggingFace",
+      "LoRA",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-027",
+    "job_title": "Need expert for Neo4j project",
+    "skills_referenced": [
+      "Neo4j",
+      "LangChain",
+      "Python",
+      "GraphRAG"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-028",
+    "job_title": "Need expert for YOLOv8 project",
+    "skills_referenced": [
+      "YOLOv8",
+      "TensorRT",
+      "OpenCV",
+      "Python"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with YOLOv8 and TensorRT. In my recent project 'Edge Computer Vision Quality Inspection in Manufacturing', I solved this exact challenge: Deployed YOLOv8 models on Jetson Orin edge devices for real-time PCB defect detection running at 60 FPS. The result was Defect detection rate improved from 88% to 99.4%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-029",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "PyTorch Forecasting",
+      "AWS S3",
+      "Docker"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and PyTorch Forecasting. In my recent project 'Time-Series Forecasting for Retail Supply Chain', I solved this exact challenge: Designed hierarchical Prophet and Temporal Fusion Transformer pipeline forecasting inventory demand for 3,000 stores. The result was Reduced out-of-stock incidents by 22%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-030",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "LangGraph",
+      "GitHub API",
+      "FastAPI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-031",
+    "job_title": "Need expert for CLIP project",
+    "skills_referenced": [
+      "CLIP",
+      "Qdrant",
+      "FastAPI",
+      "Python"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-032",
+    "job_title": "Need expert for WebSockets project",
+    "skills_referenced": [
+      "WebSockets",
+      "FastAPI",
+      "Whisper",
+      "Python"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding WebSockets. I have substantial background in WebSockets, FastAPI, Whisper, Python, including delivering 'Voice-Enabled AI Dispatch Assistant with Live Audio API'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-033",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SpaCy",
+      "Presidio",
+      "FastAPI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and SpaCy. In my recent project 'Document Anonymization & PII Redaction Pipeline', I solved this exact challenge: Engineered high-speed Presidio-based NER and regex redaction pipeline processing millions of HIPAA-regulated medical records. The result was Zero PII leakage on 100k audit batch. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-034",
+    "job_title": "Need expert for Unsloth project",
+    "skills_referenced": [
+      "Unsloth",
+      "LoRA",
+      "HuggingFace",
+      "vLLM"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Unsloth. I have substantial background in Unsloth, LoRA, HuggingFace, vLLM, including delivering 'Fine-Tuned Function-Calling Specialist Model'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-035",
+    "job_title": "Need expert for Redis project",
+    "skills_referenced": [
+      "Redis",
+      "Python",
+      "FastAPI",
+      "LangChain"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-036",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "CTGAN",
+      "scikit-learn",
+      "Postgres"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, CTGAN, scikit-learn, Postgres, including delivering 'Synthetic Tabular Data Generator with CTGAN'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-037",
+    "job_title": "Need expert for BGE-M3 project",
+    "skills_referenced": [
+      "BGE-M3",
+      "FastAPI",
+      "Docker",
+      "Python"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding BGE-M3. I have substantial background in BGE-M3, FastAPI, Docker, Python, including delivering 'Multilingual Semantic FAQ Search for Government Agency'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-038",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Playwright",
+      "FastAPI",
+      "Postgres"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-039",
+    "job_title": "Need expert for MLflow project",
+    "skills_referenced": [
+      "MLflow",
+      "Feast",
+      "AWS",
+      "Docker"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding MLflow. I have substantial background in MLflow, Feast, AWS, Docker, including delivering 'End-to-End MLOps Pipeline with Feast & MLflow'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-040",
+    "job_title": "Need expert for LangGraph project",
+    "skills_referenced": [
+      "LangGraph",
+      "FastAPI",
+      "Python",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-041",
+    "job_title": "Need expert for LangGraph project",
+    "skills_referenced": [
+      "LangGraph",
+      "FastAPI",
+      "Redis",
+      "Python"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-042",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pinecone",
+      "BGE Reranker",
+      "LangChain"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-043",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Kafka",
+      "LightGBM",
+      "Docker"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, Kafka, LightGBM, Docker, including delivering 'Real-Time Fraud Detection Engine on Financial Streams'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-044",
+    "job_title": "Need expert for vLLM project",
+    "skills_referenced": [
+      "vLLM",
+      "Ray",
+      "Kubernetes",
+      "PyTorch"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-045",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "scikit-learn",
+      "FastAPI",
+      "Postgres"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-046",
+    "job_title": "Need expert for PyTorch project",
+    "skills_referenced": [
+      "PyTorch",
+      "HuggingFace",
+      "LoRA",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-047",
+    "job_title": "Need expert for Neo4j project",
+    "skills_referenced": [
+      "Neo4j",
+      "LangChain",
+      "Python",
+      "GraphRAG"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Neo4j. I have substantial background in Neo4j, LangChain, Python, GraphRAG, including delivering 'GraphRAG Knowledge Engine for Biomedical Research'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-048",
+    "job_title": "Need expert for YOLOv8 project",
+    "skills_referenced": [
+      "YOLOv8",
+      "TensorRT",
+      "OpenCV",
+      "Python"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-049",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "PyTorch Forecasting",
+      "AWS S3",
+      "Docker"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and PyTorch Forecasting. In my recent project 'Time-Series Forecasting for Retail Supply Chain', I solved this exact challenge: Designed hierarchical Prophet and Temporal Fusion Transformer pipeline forecasting inventory demand for 3,000 stores. The result was Reduced out-of-stock incidents by 22%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-050",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "LangGraph",
+      "GitHub API",
+      "FastAPI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and LangGraph. In my recent project 'Agentic Code Review & Security Audit Bot', I solved this exact challenge: Created GitHub Action integration with LangGraph agent verifying PR compliance, AST analysis, and security vulnerabilities. The result was Merged into 40+ enterprise repos, reviewing 500 PRs/week. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-051",
+    "job_title": "Need expert for CLIP project",
+    "skills_referenced": [
+      "CLIP",
+      "Qdrant",
+      "FastAPI",
+      "Python"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with CLIP and Qdrant. In my recent project 'Multi-Modal Product Search & Visual Recommendation', I solved this exact challenge: Built multimodal CLIP-based embedding search enabling reverse-image product discovery for e-commerce client. The result was Boosted search-to-cart conversion rate by 19%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-052",
+    "job_title": "Need expert for WebSockets project",
+    "skills_referenced": [
+      "WebSockets",
+      "FastAPI",
+      "Whisper",
+      "Python"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-053",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SpaCy",
+      "Presidio",
+      "FastAPI"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, SpaCy, Presidio, FastAPI, including delivering 'Document Anonymization & PII Redaction Pipeline'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-054",
+    "job_title": "Need expert for Unsloth project",
+    "skills_referenced": [
+      "Unsloth",
+      "LoRA",
+      "HuggingFace",
+      "vLLM"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Unsloth. I have substantial background in Unsloth, LoRA, HuggingFace, vLLM, including delivering 'Fine-Tuned Function-Calling Specialist Model'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-055",
+    "job_title": "Need expert for Redis project",
+    "skills_referenced": [
+      "Redis",
+      "Python",
+      "FastAPI",
+      "LangChain"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Redis. I have substantial background in Redis, Python, FastAPI, LangChain, including delivering 'Automated ETL & Semantic Caching Layer'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-056",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "CTGAN",
+      "scikit-learn",
+      "Postgres"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-057",
+    "job_title": "Need expert for BGE-M3 project",
+    "skills_referenced": [
+      "BGE-M3",
+      "FastAPI",
+      "Docker",
+      "Python"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding BGE-M3. I have substantial background in BGE-M3, FastAPI, Docker, Python, including delivering 'Multilingual Semantic FAQ Search for Government Agency'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-058",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Playwright",
+      "FastAPI",
+      "Postgres"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and Playwright. In my recent project 'Autonomous Web Scraping & Trend Intelligence Bot', I solved this exact challenge: Built resilient Playwright crawling pipeline with automated proxy rotation and structured markdown summarization. The result was Monitored 1,200 competitor pricing pages daily. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-059",
+    "job_title": "Need expert for MLflow project",
+    "skills_referenced": [
+      "MLflow",
+      "Feast",
+      "AWS",
+      "Docker"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding MLflow. I have substantial background in MLflow, Feast, AWS, Docker, including delivering 'End-to-End MLOps Pipeline with Feast & MLflow'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-060",
+    "job_title": "Need expert for LangGraph project",
+    "skills_referenced": [
+      "LangGraph",
+      "FastAPI",
+      "Python",
+      "Docker"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with LangGraph and FastAPI. In my recent project 'Agentic Financial Analyst with Tool Grounding', I solved this exact challenge: Constructed LangGraph agent integrating Yahoo Finance, SEC EDGAR tools, and automated KaTeX financial report generation. The result was Generates verified equity research summaries in 30 seconds. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-061",
+    "job_title": "Need expert for LangGraph project",
+    "skills_referenced": [
+      "LangGraph",
+      "FastAPI",
+      "Redis",
+      "Python"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-062",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pinecone",
+      "BGE Reranker",
+      "LangChain"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and Pinecone. In my recent project 'High-Throughput Hybrid RAG Pipeline for Legal Contracts', I solved this exact challenge: Architected hybrid BM25 + dense retrieval with BGE reranking over 500k legal PDFs with KaTeX math rendering and citation verification. The result was 98.4% citation recall and zero hallucinated statutes. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-063",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Kafka",
+      "LightGBM",
+      "Docker"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, Kafka, LightGBM, Docker, including delivering 'Real-Time Fraud Detection Engine on Financial Streams'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-064",
+    "job_title": "Need expert for vLLM project",
+    "skills_referenced": [
+      "vLLM",
+      "Ray",
+      "Kubernetes",
+      "PyTorch"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with vLLM and Ray. In my recent project 'Self-Hosted LLM Inference Cluster with vLLM & Ray', I solved this exact challenge: Configured scalable 8x A100 GPU cluster deploying Qwen and Llama-3 models with continuous batching and PagedAttention. The result was Cut external OpenAI API costs by 72%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-065",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "scikit-learn",
+      "FastAPI",
+      "Postgres"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and scikit-learn. In my recent project 'Predictive Churn Model and Retention Dashboard', I solved this exact challenge: Developed customer churn prediction with scikit-learn and SHAP interpretability for SaaS company with 250k subscribers. The result was Lifted retention campaign conversion by 28%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-066",
+    "job_title": "Need expert for PyTorch project",
+    "skills_referenced": [
+      "PyTorch",
+      "HuggingFace",
+      "LoRA",
+      "Docker"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with PyTorch and HuggingFace. In my recent project 'Automated Clinical Trial Data Extraction using Medical LLMs', I solved this exact challenge: Fine-tuned Med-Llama on clinical documents, implementing strict JSON output parsing and medical entity grounding. The result was Processed 40,000 clinical abstracts with 96% F1. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-067",
+    "job_title": "Need expert for Neo4j project",
+    "skills_referenced": [
+      "Neo4j",
+      "LangChain",
+      "Python",
+      "GraphRAG"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-068",
+    "job_title": "Need expert for YOLOv8 project",
+    "skills_referenced": [
+      "YOLOv8",
+      "TensorRT",
+      "OpenCV",
+      "Python"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding YOLOv8. I have substantial background in YOLOv8, TensorRT, OpenCV, Python, including delivering 'Edge Computer Vision Quality Inspection in Manufacturing'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-069",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "PyTorch Forecasting",
+      "AWS S3",
+      "Docker"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, PyTorch Forecasting, AWS S3, Docker, including delivering 'Time-Series Forecasting for Retail Supply Chain'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-070",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "LangGraph",
+      "GitHub API",
+      "FastAPI"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, LangGraph, GitHub API, FastAPI, including delivering 'Agentic Code Review & Security Audit Bot'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-071",
+    "job_title": "Need expert for CLIP project",
+    "skills_referenced": [
+      "CLIP",
+      "Qdrant",
+      "FastAPI",
+      "Python"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding CLIP. I have substantial background in CLIP, Qdrant, FastAPI, Python, including delivering 'Multi-Modal Product Search & Visual Recommendation'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-072",
+    "job_title": "Need expert for WebSockets project",
+    "skills_referenced": [
+      "WebSockets",
+      "FastAPI",
+      "Whisper",
+      "Python"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-073",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SpaCy",
+      "Presidio",
+      "FastAPI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-074",
+    "job_title": "Need expert for Unsloth project",
+    "skills_referenced": [
+      "Unsloth",
+      "LoRA",
+      "HuggingFace",
+      "vLLM"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Unsloth. I have substantial background in Unsloth, LoRA, HuggingFace, vLLM, including delivering 'Fine-Tuned Function-Calling Specialist Model'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-075",
+    "job_title": "Need expert for Redis project",
+    "skills_referenced": [
+      "Redis",
+      "Python",
+      "FastAPI",
+      "LangChain"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Redis. I have substantial background in Redis, Python, FastAPI, LangChain, including delivering 'Automated ETL & Semantic Caching Layer'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-076",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "CTGAN",
+      "scikit-learn",
+      "Postgres"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-077",
+    "job_title": "Need expert for BGE-M3 project",
+    "skills_referenced": [
+      "BGE-M3",
+      "FastAPI",
+      "Docker",
+      "Python"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-078",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Playwright",
+      "FastAPI",
+      "Postgres"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-079",
+    "job_title": "Need expert for MLflow project",
+    "skills_referenced": [
+      "MLflow",
+      "Feast",
+      "AWS",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-080",
+    "job_title": "Need expert for LangGraph project",
+    "skills_referenced": [
+      "LangGraph",
+      "FastAPI",
+      "Python",
+      "Docker"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with LangGraph and FastAPI. In my recent project 'Agentic Financial Analyst with Tool Grounding', I solved this exact challenge: Constructed LangGraph agent integrating Yahoo Finance, SEC EDGAR tools, and automated KaTeX financial report generation. The result was Generates verified equity research summaries in 30 seconds. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-081",
+    "job_title": "Need expert for LangGraph project",
+    "skills_referenced": [
+      "LangGraph",
+      "FastAPI",
+      "Redis",
+      "Python"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with LangGraph and FastAPI. In my recent project 'Enterprise Multi-Agent Customer Support System', I solved this exact challenge: Built a multi-agent triage and resolution network using LangGraph and FastAPI, reducing response time by 64% and serving 100k daily queries. The result was Production deployed across 12 countries. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-082",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pinecone",
+      "BGE Reranker",
+      "LangChain"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-083",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Kafka",
+      "LightGBM",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-084",
+    "job_title": "Need expert for vLLM project",
+    "skills_referenced": [
+      "vLLM",
+      "Ray",
+      "Kubernetes",
+      "PyTorch"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding vLLM. I have substantial background in vLLM, Ray, Kubernetes, PyTorch, including delivering 'Self-Hosted LLM Inference Cluster with vLLM & Ray'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-085",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "scikit-learn",
+      "FastAPI",
+      "Postgres"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, scikit-learn, FastAPI, Postgres, including delivering 'Predictive Churn Model and Retention Dashboard'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-086",
+    "job_title": "Need expert for PyTorch project",
+    "skills_referenced": [
+      "PyTorch",
+      "HuggingFace",
+      "LoRA",
+      "Docker"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding PyTorch. I have substantial background in PyTorch, HuggingFace, LoRA, Docker, including delivering 'Automated Clinical Trial Data Extraction using Medical LLMs'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-087",
+    "job_title": "Need expert for Neo4j project",
+    "skills_referenced": [
+      "Neo4j",
+      "LangChain",
+      "Python",
+      "GraphRAG"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-088",
+    "job_title": "Need expert for YOLOv8 project",
+    "skills_referenced": [
+      "YOLOv8",
+      "TensorRT",
+      "OpenCV",
+      "Python"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-089",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "PyTorch Forecasting",
+      "AWS S3",
+      "Docker"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, PyTorch Forecasting, AWS S3, Docker, including delivering 'Time-Series Forecasting for Retail Supply Chain'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-090",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "LangGraph",
+      "GitHub API",
+      "FastAPI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and LangGraph. In my recent project 'Agentic Code Review & Security Audit Bot', I solved this exact challenge: Created GitHub Action integration with LangGraph agent verifying PR compliance, AST analysis, and security vulnerabilities. The result was Merged into 40+ enterprise repos, reviewing 500 PRs/week. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-091",
+    "job_title": "Need expert for CLIP project",
+    "skills_referenced": [
+      "CLIP",
+      "Qdrant",
+      "FastAPI",
+      "Python"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with CLIP and Qdrant. In my recent project 'Multi-Modal Product Search & Visual Recommendation', I solved this exact challenge: Built multimodal CLIP-based embedding search enabling reverse-image product discovery for e-commerce client. The result was Boosted search-to-cart conversion rate by 19%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-092",
+    "job_title": "Need expert for WebSockets project",
+    "skills_referenced": [
+      "WebSockets",
+      "FastAPI",
+      "Whisper",
+      "Python"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-093",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SpaCy",
+      "Presidio",
+      "FastAPI"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, SpaCy, Presidio, FastAPI, including delivering 'Document Anonymization & PII Redaction Pipeline'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-094",
+    "job_title": "Need expert for Unsloth project",
+    "skills_referenced": [
+      "Unsloth",
+      "LoRA",
+      "HuggingFace",
+      "vLLM"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Unsloth and LoRA. In my recent project 'Fine-Tuned Function-Calling Specialist Model', I solved this exact challenge: Applied Unsloth and QLoRA on Mistral-7B to create private tool-calling LLM achieving 94% JSON schema compliance. The result was Replaced GPT-4 Turbo for internal ERP tools. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-095",
+    "job_title": "Need expert for Redis project",
+    "skills_referenced": [
+      "Redis",
+      "Python",
+      "FastAPI",
+      "LangChain"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Redis and Python. In my recent project 'Automated ETL & Semantic Caching Layer', I solved this exact challenge: Implemented Redis semantic cache and LangChain embeddings layer reducing LLM API token consumption by 48%. The result was Sub-50ms cache hits on repeated queries. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-096",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "CTGAN",
+      "scikit-learn",
+      "Postgres"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and CTGAN. In my recent project 'Synthetic Tabular Data Generator with CTGAN', I solved this exact challenge: Designed privacy-preserving synthetic data generation platform for banking risk modeling using Conditional GANs. The result was Passed strict regulatory privacy audits. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-097",
+    "job_title": "Need expert for BGE-M3 project",
+    "skills_referenced": [
+      "BGE-M3",
+      "FastAPI",
+      "Docker",
+      "Python"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with BGE-M3 and FastAPI. In my recent project 'Multilingual Semantic FAQ Search for Government Agency', I solved this exact challenge: Deployed multilingual BGE-M3 embedding search serving citizen queries in 14 languages with reciprocal rank fusion. The result was Served 2 million requests with 99.9% uptime. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-098",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Playwright",
+      "FastAPI",
+      "Postgres"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and Playwright. In my recent project 'Autonomous Web Scraping & Trend Intelligence Bot', I solved this exact challenge: Built resilient Playwright crawling pipeline with automated proxy rotation and structured markdown summarization. The result was Monitored 1,200 competitor pricing pages daily. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-099",
+    "job_title": "Need expert for MLflow project",
+    "skills_referenced": [
+      "MLflow",
+      "Feast",
+      "AWS",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-100",
+    "job_title": "Need expert for LangGraph project",
+    "skills_referenced": [
+      "LangGraph",
+      "FastAPI",
+      "Python",
+      "Docker"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with LangGraph and FastAPI. In my recent project 'Agentic Financial Analyst with Tool Grounding', I solved this exact challenge: Constructed LangGraph agent integrating Yahoo Finance, SEC EDGAR tools, and automated KaTeX financial report generation. The result was Generates verified equity research summaries in 30 seconds. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-101",
+    "job_title": "Need expert for LangGraph project",
+    "skills_referenced": [
+      "LangGraph",
+      "FastAPI",
+      "Redis",
+      "Python"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-102",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pinecone",
+      "BGE Reranker",
+      "LangChain"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-103",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Kafka",
+      "LightGBM",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-104",
+    "job_title": "Need expert for vLLM project",
+    "skills_referenced": [
+      "vLLM",
+      "Ray",
+      "Kubernetes",
+      "PyTorch"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-105",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "scikit-learn",
+      "FastAPI",
+      "Postgres"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and scikit-learn. In my recent project 'Predictive Churn Model and Retention Dashboard', I solved this exact challenge: Developed customer churn prediction with scikit-learn and SHAP interpretability for SaaS company with 250k subscribers. The result was Lifted retention campaign conversion by 28%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-106",
+    "job_title": "Need expert for PyTorch project",
+    "skills_referenced": [
+      "PyTorch",
+      "HuggingFace",
+      "LoRA",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-107",
+    "job_title": "Need expert for Neo4j project",
+    "skills_referenced": [
+      "Neo4j",
+      "LangChain",
+      "Python",
+      "GraphRAG"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-108",
+    "job_title": "Need expert for YOLOv8 project",
+    "skills_referenced": [
+      "YOLOv8",
+      "TensorRT",
+      "OpenCV",
+      "Python"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-109",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "PyTorch Forecasting",
+      "AWS S3",
+      "Docker"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, PyTorch Forecasting, AWS S3, Docker, including delivering 'Time-Series Forecasting for Retail Supply Chain'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-110",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "LangGraph",
+      "GitHub API",
+      "FastAPI"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, LangGraph, GitHub API, FastAPI, including delivering 'Agentic Code Review & Security Audit Bot'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-111",
+    "job_title": "Need expert for CLIP project",
+    "skills_referenced": [
+      "CLIP",
+      "Qdrant",
+      "FastAPI",
+      "Python"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with CLIP and Qdrant. In my recent project 'Multi-Modal Product Search & Visual Recommendation', I solved this exact challenge: Built multimodal CLIP-based embedding search enabling reverse-image product discovery for e-commerce client. The result was Boosted search-to-cart conversion rate by 19%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-112",
+    "job_title": "Need expert for WebSockets project",
+    "skills_referenced": [
+      "WebSockets",
+      "FastAPI",
+      "Whisper",
+      "Python"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-113",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SpaCy",
+      "Presidio",
+      "FastAPI"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, SpaCy, Presidio, FastAPI, including delivering 'Document Anonymization & PII Redaction Pipeline'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-114",
+    "job_title": "Need expert for Unsloth project",
+    "skills_referenced": [
+      "Unsloth",
+      "LoRA",
+      "HuggingFace",
+      "vLLM"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Unsloth and LoRA. In my recent project 'Fine-Tuned Function-Calling Specialist Model', I solved this exact challenge: Applied Unsloth and QLoRA on Mistral-7B to create private tool-calling LLM achieving 94% JSON schema compliance. The result was Replaced GPT-4 Turbo for internal ERP tools. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-115",
+    "job_title": "Need expert for Redis project",
+    "skills_referenced": [
+      "Redis",
+      "Python",
+      "FastAPI",
+      "LangChain"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Redis. I have substantial background in Redis, Python, FastAPI, LangChain, including delivering 'Automated ETL & Semantic Caching Layer'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-116",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "CTGAN",
+      "scikit-learn",
+      "Postgres"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, CTGAN, scikit-learn, Postgres, including delivering 'Synthetic Tabular Data Generator with CTGAN'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-117",
+    "job_title": "Need expert for BGE-M3 project",
+    "skills_referenced": [
+      "BGE-M3",
+      "FastAPI",
+      "Docker",
+      "Python"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding BGE-M3. I have substantial background in BGE-M3, FastAPI, Docker, Python, including delivering 'Multilingual Semantic FAQ Search for Government Agency'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-118",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Playwright",
+      "FastAPI",
+      "Postgres"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and Playwright. In my recent project 'Autonomous Web Scraping & Trend Intelligence Bot', I solved this exact challenge: Built resilient Playwright crawling pipeline with automated proxy rotation and structured markdown summarization. The result was Monitored 1,200 competitor pricing pages daily. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-119",
+    "job_title": "Need expert for MLflow project",
+    "skills_referenced": [
+      "MLflow",
+      "Feast",
+      "AWS",
+      "Docker"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding MLflow. I have substantial background in MLflow, Feast, AWS, Docker, including delivering 'End-to-End MLOps Pipeline with Feast & MLflow'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-120",
+    "job_title": "Need expert for LangGraph project",
+    "skills_referenced": [
+      "LangGraph",
+      "FastAPI",
+      "Python",
+      "Docker"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with LangGraph and FastAPI. In my recent project 'Agentic Financial Analyst with Tool Grounding', I solved this exact challenge: Constructed LangGraph agent integrating Yahoo Finance, SEC EDGAR tools, and automated KaTeX financial report generation. The result was Generates verified equity research summaries in 30 seconds. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-121",
+    "job_title": "Need expert for LangGraph project",
+    "skills_referenced": [
+      "LangGraph",
+      "FastAPI",
+      "Redis",
+      "Python"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with LangGraph and FastAPI. In my recent project 'Enterprise Multi-Agent Customer Support System', I solved this exact challenge: Built a multi-agent triage and resolution network using LangGraph and FastAPI, reducing response time by 64% and serving 100k daily queries. The result was Production deployed across 12 countries. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-122",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pinecone",
+      "BGE Reranker",
+      "LangChain"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and Pinecone. In my recent project 'High-Throughput Hybrid RAG Pipeline for Legal Contracts', I solved this exact challenge: Architected hybrid BM25 + dense retrieval with BGE reranking over 500k legal PDFs with KaTeX math rendering and citation verification. The result was 98.4% citation recall and zero hallucinated statutes. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-123",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Kafka",
+      "LightGBM",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-124",
+    "job_title": "Need expert for vLLM project",
+    "skills_referenced": [
+      "vLLM",
+      "Ray",
+      "Kubernetes",
+      "PyTorch"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with vLLM and Ray. In my recent project 'Self-Hosted LLM Inference Cluster with vLLM & Ray', I solved this exact challenge: Configured scalable 8x A100 GPU cluster deploying Qwen and Llama-3 models with continuous batching and PagedAttention. The result was Cut external OpenAI API costs by 72%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-125",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "scikit-learn",
+      "FastAPI",
+      "Postgres"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-126",
+    "job_title": "Need expert for PyTorch project",
+    "skills_referenced": [
+      "PyTorch",
+      "HuggingFace",
+      "LoRA",
+      "Docker"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding PyTorch. I have substantial background in PyTorch, HuggingFace, LoRA, Docker, including delivering 'Automated Clinical Trial Data Extraction using Medical LLMs'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-127",
+    "job_title": "Need expert for Neo4j project",
+    "skills_referenced": [
+      "Neo4j",
+      "LangChain",
+      "Python",
+      "GraphRAG"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-128",
+    "job_title": "Need expert for YOLOv8 project",
+    "skills_referenced": [
+      "YOLOv8",
+      "TensorRT",
+      "OpenCV",
+      "Python"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding YOLOv8. I have substantial background in YOLOv8, TensorRT, OpenCV, Python, including delivering 'Edge Computer Vision Quality Inspection in Manufacturing'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-129",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "PyTorch Forecasting",
+      "AWS S3",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-130",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "LangGraph",
+      "GitHub API",
+      "FastAPI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and LangGraph. In my recent project 'Agentic Code Review & Security Audit Bot', I solved this exact challenge: Created GitHub Action integration with LangGraph agent verifying PR compliance, AST analysis, and security vulnerabilities. The result was Merged into 40+ enterprise repos, reviewing 500 PRs/week. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-131",
+    "job_title": "Need expert for CLIP project",
+    "skills_referenced": [
+      "CLIP",
+      "Qdrant",
+      "FastAPI",
+      "Python"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding CLIP. I have substantial background in CLIP, Qdrant, FastAPI, Python, including delivering 'Multi-Modal Product Search & Visual Recommendation'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-132",
+    "job_title": "Need expert for WebSockets project",
+    "skills_referenced": [
+      "WebSockets",
+      "FastAPI",
+      "Whisper",
+      "Python"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-133",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SpaCy",
+      "Presidio",
+      "FastAPI"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, SpaCy, Presidio, FastAPI, including delivering 'Document Anonymization & PII Redaction Pipeline'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-134",
+    "job_title": "Need expert for Unsloth project",
+    "skills_referenced": [
+      "Unsloth",
+      "LoRA",
+      "HuggingFace",
+      "vLLM"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Unsloth. I have substantial background in Unsloth, LoRA, HuggingFace, vLLM, including delivering 'Fine-Tuned Function-Calling Specialist Model'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-135",
+    "job_title": "Need expert for Redis project",
+    "skills_referenced": [
+      "Redis",
+      "Python",
+      "FastAPI",
+      "LangChain"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-136",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "CTGAN",
+      "scikit-learn",
+      "Postgres"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and CTGAN. In my recent project 'Synthetic Tabular Data Generator with CTGAN', I solved this exact challenge: Designed privacy-preserving synthetic data generation platform for banking risk modeling using Conditional GANs. The result was Passed strict regulatory privacy audits. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-137",
+    "job_title": "Need expert for BGE-M3 project",
+    "skills_referenced": [
+      "BGE-M3",
+      "FastAPI",
+      "Docker",
+      "Python"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with BGE-M3 and FastAPI. In my recent project 'Multilingual Semantic FAQ Search for Government Agency', I solved this exact challenge: Deployed multilingual BGE-M3 embedding search serving citizen queries in 14 languages with reciprocal rank fusion. The result was Served 2 million requests with 99.9% uptime. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-138",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Playwright",
+      "FastAPI",
+      "Postgres"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, Playwright, FastAPI, Postgres, including delivering 'Autonomous Web Scraping & Trend Intelligence Bot'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-139",
+    "job_title": "Need expert for MLflow project",
+    "skills_referenced": [
+      "MLflow",
+      "Feast",
+      "AWS",
+      "Docker"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding MLflow. I have substantial background in MLflow, Feast, AWS, Docker, including delivering 'End-to-End MLOps Pipeline with Feast & MLflow'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-140",
+    "job_title": "Need expert for LangGraph project",
+    "skills_referenced": [
+      "LangGraph",
+      "FastAPI",
+      "Python",
+      "Docker"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with LangGraph and FastAPI. In my recent project 'Agentic Financial Analyst with Tool Grounding', I solved this exact challenge: Constructed LangGraph agent integrating Yahoo Finance, SEC EDGAR tools, and automated KaTeX financial report generation. The result was Generates verified equity research summaries in 30 seconds. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-141",
+    "job_title": "Need expert for LangGraph project",
+    "skills_referenced": [
+      "LangGraph",
+      "FastAPI",
+      "Redis",
+      "Python"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding LangGraph. I have substantial background in LangGraph, FastAPI, Redis, Python, including delivering 'Enterprise Multi-Agent Customer Support System'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-142",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pinecone",
+      "BGE Reranker",
+      "LangChain"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and Pinecone. In my recent project 'High-Throughput Hybrid RAG Pipeline for Legal Contracts', I solved this exact challenge: Architected hybrid BM25 + dense retrieval with BGE reranking over 500k legal PDFs with KaTeX math rendering and citation verification. The result was 98.4% citation recall and zero hallucinated statutes. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-143",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Kafka",
+      "LightGBM",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-144",
+    "job_title": "Need expert for vLLM project",
+    "skills_referenced": [
+      "vLLM",
+      "Ray",
+      "Kubernetes",
+      "PyTorch"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3800,
+    "evidence_used": [
+      "case-ai-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-145",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "scikit-learn",
+      "FastAPI",
+      "Postgres"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and scikit-learn. In my recent project 'Predictive Churn Model and Retention Dashboard', I solved this exact challenge: Developed customer churn prediction with scikit-learn and SHAP interpretability for SaaS company with 250k subscribers. The result was Lifted retention campaign conversion by 28%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-146",
+    "job_title": "Need expert for PyTorch project",
+    "skills_referenced": [
+      "PyTorch",
+      "HuggingFace",
+      "LoRA",
+      "Docker"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding PyTorch. I have substantial background in PyTorch, HuggingFace, LoRA, Docker, including delivering 'Automated Clinical Trial Data Extraction using Medical LLMs'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-147",
+    "job_title": "Need expert for Neo4j project",
+    "skills_referenced": [
+      "Neo4j",
+      "LangChain",
+      "Python",
+      "GraphRAG"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Neo4j. I have substantial background in Neo4j, LangChain, Python, GraphRAG, including delivering 'GraphRAG Knowledge Engine for Biomedical Research'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-148",
+    "job_title": "Need expert for YOLOv8 project",
+    "skills_referenced": [
+      "YOLOv8",
+      "TensorRT",
+      "OpenCV",
+      "Python"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding YOLOv8. I have substantial background in YOLOv8, TensorRT, OpenCV, Python, including delivering 'Edge Computer Vision Quality Inspection in Manufacturing'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-149",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "PyTorch Forecasting",
+      "AWS S3",
+      "Docker"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and PyTorch Forecasting. In my recent project 'Time-Series Forecasting for Retail Supply Chain', I solved this exact challenge: Designed hierarchical Prophet and Temporal Fusion Transformer pipeline forecasting inventory demand for 3,000 stores. The result was Reduced out-of-stock incidents by 22%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-ai-150",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "LangGraph",
+      "GitHub API",
+      "FastAPI"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, LangGraph, GitHub API, FastAPI, including delivering 'Agentic Code Review & Security Audit Bot'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1425,
+    "evidence_used": [
+      "case-ai-011"
+    ]
+  }
+]

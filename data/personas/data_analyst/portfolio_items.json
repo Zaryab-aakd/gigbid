@@ -1,0 +1,302 @@
+[
+  {
+    "evidence_id": "case-da-001",
+    "freelancer_id": "data_analyst",
+    "type": "case_study",
+    "title": "Automated Marketing Multi-Touch Attribution Engine",
+    "summary": "Developed Markov chain and Shapley attribution model across Google, Meta, and TikTok ad channels in BigQuery.",
+    "skills": [
+      "SQL",
+      "BigQuery",
+      "Python",
+      "dbt"
+    ],
+    "outcome": "Reallocated $400k ad spend, increasing ROAS by 34%",
+    "source": "portfolio://case/case-da-001"
+  },
+  {
+    "evidence_id": "case-da-002",
+    "freelancer_id": "data_analyst",
+    "type": "case_study",
+    "title": "Executive Revenue & Cohort Retention BI Suite",
+    "summary": "Built comprehensive Tableau dashboards tracking monthly recurring revenue, net retention, and LTV/CAC cohorts.",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Snowflake",
+      "dbt"
+    ],
+    "outcome": "Adopted by C-suite for board reporting and series B funding",
+    "source": "portfolio://case/case-da-002"
+  },
+  {
+    "evidence_id": "case-da-003",
+    "freelancer_id": "data_analyst",
+    "type": "case_study",
+    "title": "E-Commerce Conversion Rate Optimization A/B Testing",
+    "summary": "Formulated Bayesian and Frequentist hypothesis testing framework analyzing 1.2M user sessions on checkout flows.",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "SQL",
+      "Statistics"
+    ],
+    "outcome": "Validated checkout redesign that unlocked $850k annual revenue",
+    "source": "portfolio://case/case-da-003"
+  },
+  {
+    "evidence_id": "case-da-004",
+    "freelancer_id": "data_analyst",
+    "type": "case_study",
+    "title": "Supply Chain Inventory Optimization & Reorder Points",
+    "summary": "Engineered Monte Carlo simulation calculating safety stocks and optimal reorder quantities across 4,500 SKUs.",
+    "skills": [
+      "Python",
+      "Pandas",
+      "PostgreSQL",
+      "Excel"
+    ],
+    "outcome": "Decreased inventory carrying costs by 18% while preventing stockouts",
+    "source": "portfolio://case/case-da-004"
+  },
+  {
+    "evidence_id": "case-da-005",
+    "freelancer_id": "data_analyst",
+    "type": "case_study",
+    "title": "Healthcare Patient Wait-Time & Resource Allocation Model",
+    "summary": "Analyzed emergency room admission bottlenecks using queuing theory and PowerBI visual workflows.",
+    "skills": [
+      "PowerBI",
+      "SQL",
+      "Python",
+      "Excel"
+    ],
+    "outcome": "Reduced average patient ER wait time by 42 minutes",
+    "source": "portfolio://case/case-da-005"
+  },
+  {
+    "evidence_id": "case-da-006",
+    "freelancer_id": "data_analyst",
+    "type": "case_study",
+    "title": "dbt Data Warehouse Transformation Pipeline",
+    "summary": "Created 80+ documented and tested dbt models transforming raw transactional event logs into clean star schema.",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL",
+      "GitHub Actions"
+    ],
+    "outcome": "Data refresh time dropped from 6 hours to 24 minutes",
+    "source": "portfolio://case/case-da-006"
+  },
+  {
+    "evidence_id": "case-da-007",
+    "freelancer_id": "data_analyst",
+    "type": "case_study",
+    "title": "Customer Lifetime Value (CLV) Segmentation & RFM",
+    "summary": "Segmented 400k retail customers into RFM tiers and trained BG/NBD predictive purchase model.",
+    "skills": [
+      "Python",
+      "Lifetimes",
+      "SQL",
+      "Seaborn"
+    ],
+    "outcome": "Targeted email campaign drove 24% higher repeat order frequency",
+    "source": "portfolio://case/case-da-007"
+  },
+  {
+    "evidence_id": "case-da-008",
+    "freelancer_id": "data_analyst",
+    "type": "case_study",
+    "title": "SaaS Product Feature Adoption & Telemetry Analytics",
+    "summary": "Constructed Mixpanel & PostHog telemetry analysis tracking user activation funnels and drop-off points.",
+    "skills": [
+      "SQL",
+      "PostgreSQL",
+      "Python",
+      "Tableau"
+    ],
+    "outcome": "Improved Day-7 user onboarding retention by 16%",
+    "source": "portfolio://case/case-da-008"
+  },
+  {
+    "evidence_id": "case-da-009",
+    "freelancer_id": "data_analyst",
+    "type": "case_study",
+    "title": "Automated Financial Forecasting & Budget Variance Tool",
+    "summary": "Designed automated three-statement financial model with scenario planning and automated variance alerts.",
+    "skills": [
+      "Excel",
+      "Python",
+      "SQL",
+      "PowerBI"
+    ],
+    "outcome": "Replaced 3 days of manual finance reconciliation each month-end",
+    "source": "portfolio://case/case-da-009"
+  },
+  {
+    "evidence_id": "case-da-010",
+    "freelancer_id": "data_analyst",
+    "type": "case_study",
+    "title": "Fraudulent Merchant Detection & Risk Scoring",
+    "summary": "Engineered statistical anomaly detection identifying rogue seller accounts through payment refund patterns.",
+    "skills": [
+      "Python",
+      "SQL",
+      "scikit-learn",
+      "PostgreSQL"
+    ],
+    "outcome": "Flagged 94% of suspicious merchant rings prior to payout",
+    "source": "portfolio://case/case-da-010"
+  },
+  {
+    "evidence_id": "case-da-011",
+    "freelancer_id": "data_analyst",
+    "type": "case_study",
+    "title": "App Store Optimization (ASO) & Keyword Impact Analysis",
+    "summary": "Analyzed keyword ranking fluctuations, conversion rates, and review sentiment across iOS and Android.",
+    "skills": [
+      "Python",
+      "SQL",
+      "NLP",
+      "Tableau"
+    ],
+    "outcome": "Drove organic downloads up by 42% over two quarters",
+    "source": "portfolio://case/case-da-011"
+  },
+  {
+    "evidence_id": "case-da-012",
+    "freelancer_id": "data_analyst",
+    "type": "case_study",
+    "title": "Hospitality Dynamic Pricing & Occupancy Analytics",
+    "summary": "Implemented dynamic pricing algorithm balancing seasonal demand, local event data, and hotel room inventory.",
+    "skills": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "Tableau"
+    ],
+    "outcome": "Increased RevPAR (Revenue Per Available Room) by 14%",
+    "source": "portfolio://case/case-da-012"
+  },
+  {
+    "evidence_id": "case-da-013",
+    "freelancer_id": "data_analyst",
+    "type": "case_study",
+    "title": "Sales Compensation & Quota Attainment Dashboard",
+    "summary": "Automated commission tier calculations and quota tracking for 120 enterprise account executives.",
+    "skills": [
+      "PowerBI",
+      "PostgreSQL",
+      "Excel",
+      "SQL"
+    ],
+    "outcome": "Eliminated commission dispute backlog entirely",
+    "source": "portfolio://case/case-da-013"
+  },
+  {
+    "evidence_id": "case-da-014",
+    "freelancer_id": "data_analyst",
+    "type": "case_study",
+    "title": "Retail Basket Analysis & Cross-Sell Recommendation Matrix",
+    "summary": "Applied Apriori association rule mining on 3M supermarket checkout receipts to optimize shelf placement.",
+    "skills": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "PowerBI"
+    ],
+    "outcome": "Promotional cross-sell bundles boosted average basket value by 11%",
+    "source": "portfolio://case/case-da-014"
+  },
+  {
+    "evidence_id": "case-da-015",
+    "freelancer_id": "data_analyst",
+    "type": "case_study",
+    "title": "Fleet Logistics Fuel Efficiency & Route Telematics",
+    "summary": "Processed GPS and telemetry sensor readings for 600 delivery trucks to uncover route inefficiencies.",
+    "skills": [
+      "Python",
+      "SQL",
+      "PostgreSQL",
+      "Tableau"
+    ],
+    "outcome": "Lowered fleet fuel consumption by 9.3% in first quarter",
+    "source": "portfolio://case/case-da-015"
+  },
+  {
+    "evidence_id": "case-da-016",
+    "freelancer_id": "data_analyst",
+    "type": "case_study",
+    "title": "Employee Churn & Engagement Sentiment Model",
+    "summary": "Analyzed internal pulse surveys and HR indicators using logistic regression to identify attrition drivers.",
+    "skills": [
+      "Python",
+      "Statsmodels",
+      "SQL",
+      "Seaborn"
+    ],
+    "outcome": "Enabled HR intervention that reduced senior engineer turnover by 25%",
+    "source": "portfolio://case/case-da-016"
+  },
+  {
+    "evidence_id": "case-da-017",
+    "freelancer_id": "data_analyst",
+    "type": "case_study",
+    "title": "Streaming Media Content Consumption & Churn Analysis",
+    "summary": "Modeled subscriber watch-time drop-offs and content catalog longevity for indie video streaming platform.",
+    "skills": [
+      "SQL",
+      "BigQuery",
+      "Python",
+      "Tableau"
+    ],
+    "outcome": "Directly guided content acquisition budget of $2.5M",
+    "source": "portfolio://case/case-da-017"
+  },
+  {
+    "evidence_id": "case-da-018",
+    "freelancer_id": "data_analyst",
+    "type": "case_study",
+    "title": "Automated Web Scraping for Real Estate Market Intelligence",
+    "summary": "Built automated daily scrape of property listings, calculating price-per-square-foot yield heatmaps.",
+    "skills": [
+      "Python",
+      "BeautifulSoup",
+      "PostgreSQL",
+      "PowerBI"
+    ],
+    "outcome": "Identified undervalued commercial assets yielding 12% cap rate",
+    "source": "portfolio://case/case-da-018"
+  },
+  {
+    "evidence_id": "case-da-019",
+    "freelancer_id": "data_analyst",
+    "type": "case_study",
+    "title": "Fintech Loan Default Risk & Credit Bureau Analysis",
+    "summary": "Evaluated credit score distributions, debt-to-income ratios, and delinquency transitions for micro-lender.",
+    "skills": [
+      "Python",
+      "SQL",
+      "scikit-learn",
+      "Excel"
+    ],
+    "outcome": "Reduced non-performing loan rate from 6.2% to 3.8%",
+    "source": "portfolio://case/case-da-019"
+  },
+  {
+    "evidence_id": "case-da-020",
+    "freelancer_id": "data_analyst",
+    "type": "case_study",
+    "title": "Marketing Campaign ROI & Spend Elasticity Models",
+    "summary": "Fitted econometrics marketing mix models (MMM) estimating diminishing returns curve across 8 channels.",
+    "skills": [
+      "Python",
+      "PyMC",
+      "SQL",
+      "PowerBI"
+    ],
+    "outcome": "Prevented over-saturation in low-yield display networks",
+    "source": "portfolio://case/case-da-020"
+  }
+]

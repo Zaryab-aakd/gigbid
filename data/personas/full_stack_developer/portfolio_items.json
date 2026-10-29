@@ -1,0 +1,303 @@
+[
+  {
+    "evidence_id": "case-fu-001",
+    "freelancer_id": "full_stack_developer",
+    "type": "case_study",
+    "title": "Real-Time Collaborative Canvas Platform",
+    "summary": "Engineered multiplayer whiteboard using React, Next.js, WebSockets, and CRDTs with sub-20ms cursor synchronization.",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "WebSockets",
+      "Node.js"
+    ],
+    "outcome": "Supported 250 concurrent users per canvas with zero lag",
+    "source": "portfolio://case/case-fu-001"
+  },
+  {
+    "evidence_id": "case-fu-002",
+    "freelancer_id": "full_stack_developer",
+    "type": "case_study",
+    "title": "High-Performance B2B FinTech Analytics Dashboard",
+    "summary": "Built modular Next.js 14 dashboard with server components, TanStack Query, and PostgreSQL handling millions of data points.",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "Page load time decreased from 4.8s to 0.7s",
+    "source": "portfolio://case/case-fu-002"
+  },
+  {
+    "evidence_id": "case-fu-003",
+    "freelancer_id": "full_stack_developer",
+    "type": "case_study",
+    "title": "Multi-Tenant E-Commerce Headless Storefront",
+    "summary": "Architected headless Shopify storefront with Next.js, GraphQL, Redis caching, and Stripe payments.",
+    "skills": [
+      "React",
+      "Next.js",
+      "GraphQL",
+      "Stripe",
+      "Redis"
+    ],
+    "outcome": "Handled $3M in Black Friday sales without downtime",
+    "source": "portfolio://case/case-fu-003"
+  },
+  {
+    "evidence_id": "case-fu-004",
+    "freelancer_id": "full_stack_developer",
+    "type": "case_study",
+    "title": "Role-Based RBAC Admin Portal with Audit Logging",
+    "summary": "Developed enterprise management suite featuring fine-grained permission controls, OAuth2 / OIDC, and immutable audit logs.",
+    "skills": [
+      "FastAPI",
+      "React",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "outcome": "Certified for SOC-2 Type II audit readiness",
+    "source": "portfolio://case/case-fu-004"
+  },
+  {
+    "evidence_id": "case-fu-005",
+    "freelancer_id": "full_stack_developer",
+    "type": "case_study",
+    "title": "Kanban Task Management Application with Drag & Drop",
+    "summary": "Created interactive project management suite with dnd-kit, optimistic UI updates, and offline sync.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Zustand",
+      "FastAPI"
+    ],
+    "outcome": "40k active monthly users with 4.9 app rating",
+    "source": "portfolio://case/case-fu-005"
+  },
+  {
+    "evidence_id": "case-fu-006",
+    "freelancer_id": "full_stack_developer",
+    "type": "case_study",
+    "title": "Streaming Video & Media Transcription Workspace",
+    "summary": "Integrated chunked video upload, HLS streaming, and Whisper subtitle generation in a responsive React web app.",
+    "skills": [
+      "React",
+      "FastAPI",
+      "FFmpeg",
+      "AWS S3"
+    ],
+    "outcome": "Cut video processing and captioning turnaround by 75%",
+    "source": "portfolio://case/case-fu-006"
+  },
+  {
+    "evidence_id": "case-fu-007",
+    "freelancer_id": "full_stack_developer",
+    "type": "case_study",
+    "title": "Automated CI/CD Pipeline & E2E Testing Suite",
+    "summary": "Configured GitHub Actions workflow with Playwright parallel execution, Docker containerization, and preview deployments.",
+    "skills": [
+      "Playwright",
+      "Docker",
+      "GitHub Actions",
+      "TypeScript"
+    ],
+    "outcome": "Achieved 95% E2E test coverage across all critical paths",
+    "source": "portfolio://case/case-fu-007"
+  },
+  {
+    "evidence_id": "case-fu-008",
+    "freelancer_id": "full_stack_developer",
+    "type": "case_study",
+    "title": "Real-Time Crypto & Stock Trading Interface",
+    "summary": "Designed high-frequency trading UI with TradingView charts, WebSockets, and sub-second order placement.",
+    "skills": [
+      "TypeScript",
+      "React",
+      "WebSockets",
+      "TailwindCSS"
+    ],
+    "outcome": "Zero dropped frames during extreme volatility surges",
+    "source": "portfolio://case/case-fu-008"
+  },
+  {
+    "evidence_id": "case-fu-009",
+    "freelancer_id": "full_stack_developer",
+    "type": "case_study",
+    "title": "AI-Powered Rich Text Document Editor",
+    "summary": "Constructed TipTap-based editor with collaborative slash commands, markdown export, and streaming AI inline completions.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "TipTap",
+      "FastAPI"
+    ],
+    "outcome": "Adopted by 500+ daily content creators",
+    "source": "portfolio://case/case-fu-009"
+  },
+  {
+    "evidence_id": "case-fu-010",
+    "freelancer_id": "full_stack_developer",
+    "type": "case_study",
+    "title": "Serverless SaaS Billing & Subscription Engine",
+    "summary": "Implemented automated recurring billing with Stripe Webhooks, usage metering, and automated invoicing.",
+    "skills": [
+      "Node.js",
+      "FastAPI",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "outcome": "Recovered $18,000/month in previously failed renewals",
+    "source": "portfolio://case/case-fu-010"
+  },
+  {
+    "evidence_id": "case-fu-011",
+    "freelancer_id": "full_stack_developer",
+    "type": "case_study",
+    "title": "Healthcare Patient Portal with HIPAA Compliance",
+    "summary": "Built encrypted patient communication app with end-to-end audit logs, biometric WebAuthn, and telehealth appointments.",
+    "skills": [
+      "Next.js",
+      "PostgreSQL",
+      "WebAuthn",
+      "Docker"
+    ],
+    "outcome": "Full HIPAA compliance certification achieved",
+    "source": "portfolio://case/case-fu-011"
+  },
+  {
+    "evidence_id": "case-fu-012",
+    "freelancer_id": "full_stack_developer",
+    "type": "case_study",
+    "title": "Microservices Architecture Migration for Legacy Rails App",
+    "summary": "Decoupled monolithic application into 6 high-speed FastAPI services with RabbitMQ message queue.",
+    "skills": [
+      "FastAPI",
+      "RabbitMQ",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "outcome": "Reduced API server cloud costs by 52%",
+    "source": "portfolio://case/case-fu-012"
+  },
+  {
+    "evidence_id": "case-fu-013",
+    "freelancer_id": "full_stack_developer",
+    "type": "case_study",
+    "title": "Interactive Data Visualization Suite with D3 and KaTeX",
+    "summary": "Created interactive scientific charting tools with D3.js and KaTeX equation formatting for education portal.",
+    "skills": [
+      "D3.js",
+      "React",
+      "TypeScript",
+      "KaTeX"
+    ],
+    "outcome": "Boosted student engagement metrics by 35%",
+    "source": "portfolio://case/case-fu-013"
+  },
+  {
+    "evidence_id": "case-fu-014",
+    "freelancer_id": "full_stack_developer",
+    "type": "case_study",
+    "title": "Multi-Region Disaster Recovery & Database Replication",
+    "summary": "Configured active-passive PostgreSQL cluster with automated failover and pgvector extensions.",
+    "skills": [
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "Linux"
+    ],
+    "outcome": "Zero data loss during planned migration testing",
+    "source": "portfolio://case/case-fu-014"
+  },
+  {
+    "evidence_id": "case-fu-015",
+    "freelancer_id": "full_stack_developer",
+    "type": "case_study",
+    "title": "Internal Developer Portal & API Gateway",
+    "summary": "Built centralized Swagger / OpenAPI documentation hub with interactive playground and rate-limiting enforcement.",
+    "skills": [
+      "FastAPI",
+      "React",
+      "TypeScript",
+      "Redis"
+    ],
+    "outcome": "Sped up partner onboarding from 2 weeks to 2 hours",
+    "source": "portfolio://case/case-fu-015"
+  },
+  {
+    "evidence_id": "case-fu-016",
+    "freelancer_id": "full_stack_developer",
+    "type": "case_study",
+    "title": "Inventory & Warehouse Barcode Scanner PWA",
+    "summary": "Developed mobile-first Progressive Web App with camera barcode scanning and IndexedDB offline persistence.",
+    "skills": [
+      "React",
+      "PWA",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "outcome": "Implemented in 15 distribution centers",
+    "source": "portfolio://case/case-fu-016"
+  },
+  {
+    "evidence_id": "case-fu-017",
+    "freelancer_id": "full_stack_developer",
+    "type": "case_study",
+    "title": "Automated PDF Invoicing & Reporting Microservice",
+    "summary": "Engineered headless Chromium PDF generation service generating 50,000 branded invoices monthly.",
+    "skills": [
+      "Node.js",
+      "Puppeteer",
+      "Docker",
+      "AWS S3"
+    ],
+    "outcome": "Generation latency under 400ms per 5-page PDF",
+    "source": "portfolio://case/case-fu-017"
+  },
+  {
+    "evidence_id": "case-fu-018",
+    "freelancer_id": "full_stack_developer",
+    "type": "case_study",
+    "title": "Cross-Platform Authentication System with Passkeys",
+    "summary": "Designed passwordless authentication with WebAuthn, SMS OTP fallback, and JWT session rotation.",
+    "skills": [
+      "FastAPI",
+      "Redis",
+      "TypeScript",
+      "React"
+    ],
+    "outcome": "Reduced login abandonment rate by 41%",
+    "source": "portfolio://case/case-fu-018"
+  },
+  {
+    "evidence_id": "case-fu-019",
+    "freelancer_id": "full_stack_developer",
+    "type": "case_study",
+    "title": "Social Community Platform with Real-Time Feed",
+    "summary": "Built Twitter-like microblogging community with Infinite Scroll, mention parsing, and push notifications.",
+    "skills": [
+      "Next.js",
+      "PostgreSQL",
+      "Redis",
+      "TailwindCSS"
+    ],
+    "outcome": "Scaled to 100k posts per day effortlessly",
+    "source": "portfolio://case/case-fu-019"
+  },
+  {
+    "evidence_id": "case-fu-020",
+    "freelancer_id": "full_stack_developer",
+    "type": "case_study",
+    "title": "Self-Hosted Cloud Storage & File Sharing App",
+    "summary": "Architected Dropbox alternative with chunked resumable S3 uploads, presigned URLs, and link expiration.",
+    "skills": [
+      "React",
+      "FastAPI",
+      "AWS S3",
+      "PostgreSQL"
+    ],
+    "outcome": "Saved enterprise client $8,000/month in cloud storage fees",
+    "source": "portfolio://case/case-fu-020"
+  }
+]

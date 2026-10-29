@@ -1,0 +1,2402 @@
+[
+  {
+    "proposal_id": "prop-da-001",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "BigQuery",
+      "Python",
+      "dbt"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with SQL and BigQuery. In my recent project 'Automated Marketing Multi-Touch Attribution Engine', I solved this exact challenge: Developed Markov chain and Shapley attribution model across Google, Meta, and TikTok ad channels in BigQuery. The result was Reallocated $400k ad spend, increasing ROAS by 34%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-002",
+    "job_title": "Need expert for Tableau project",
+    "skills_referenced": [
+      "Tableau",
+      "SQL",
+      "Snowflake",
+      "dbt"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Tableau and SQL. In my recent project 'Executive Revenue & Cohort Retention BI Suite', I solved this exact challenge: Built comprehensive Tableau dashboards tracking monthly recurring revenue, net retention, and LTV/CAC cohorts. The result was Adopted by C-suite for board reporting and series B funding. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-003",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "scikit-learn",
+      "SQL",
+      "Statistics"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-004",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "PostgreSQL",
+      "Excel"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, Pandas, PostgreSQL, Excel, including delivering 'Supply Chain Inventory Optimization & Reorder Points'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-005",
+    "job_title": "Need expert for PowerBI project",
+    "skills_referenced": [
+      "PowerBI",
+      "SQL",
+      "Python",
+      "Excel"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-006",
+    "job_title": "Need expert for dbt project",
+    "skills_referenced": [
+      "dbt",
+      "Snowflake",
+      "SQL",
+      "GitHub Actions"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding dbt. I have substantial background in dbt, Snowflake, SQL, GitHub Actions, including delivering 'dbt Data Warehouse Transformation Pipeline'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-007",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Lifetimes",
+      "SQL",
+      "Seaborn"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and Lifetimes. In my recent project 'Customer Lifetime Value (CLV) Segmentation & RFM', I solved this exact challenge: Segmented 400k retail customers into RFM tiers and trained BG/NBD predictive purchase model. The result was Targeted email campaign drove 24% higher repeat order frequency. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-008",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "PostgreSQL",
+      "Python",
+      "Tableau"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding SQL. I have substantial background in SQL, PostgreSQL, Python, Tableau, including delivering 'SaaS Product Feature Adoption & Telemetry Analytics'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-009",
+    "job_title": "Need expert for Excel project",
+    "skills_referenced": [
+      "Excel",
+      "Python",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-010",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "scikit-learn",
+      "PostgreSQL"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-011",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "NLP",
+      "Tableau"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-012",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "Tableau"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-013",
+    "job_title": "Need expert for PowerBI project",
+    "skills_referenced": [
+      "PowerBI",
+      "PostgreSQL",
+      "Excel",
+      "SQL"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-014",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-015",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "PostgreSQL",
+      "Tableau"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and SQL. In my recent project 'Fleet Logistics Fuel Efficiency & Route Telematics', I solved this exact challenge: Processed GPS and telemetry sensor readings for 600 delivery trucks to uncover route inefficiencies. The result was Lowered fleet fuel consumption by 9.3% in first quarter. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-016",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Statsmodels",
+      "SQL",
+      "Seaborn"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, Statsmodels, SQL, Seaborn, including delivering 'Employee Churn & Engagement Sentiment Model'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-017",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "BigQuery",
+      "Python",
+      "Tableau"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with SQL and BigQuery. In my recent project 'Streaming Media Content Consumption & Churn Analysis', I solved this exact challenge: Modeled subscriber watch-time drop-offs and content catalog longevity for indie video streaming platform. The result was Directly guided content acquisition budget of $2.5M. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-018",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "BeautifulSoup",
+      "PostgreSQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and BeautifulSoup. In my recent project 'Automated Web Scraping for Real Estate Market Intelligence', I solved this exact challenge: Built automated daily scrape of property listings, calculating price-per-square-foot yield heatmaps. The result was Identified undervalued commercial assets yielding 12% cap rate. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-019",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "scikit-learn",
+      "Excel"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, SQL, scikit-learn, Excel, including delivering 'Fintech Loan Default Risk & Credit Bureau Analysis'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-020",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "PyMC",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and PyMC. In my recent project 'Marketing Campaign ROI & Spend Elasticity Models', I solved this exact challenge: Fitted econometrics marketing mix models (MMM) estimating diminishing returns curve across 8 channels. The result was Prevented over-saturation in low-yield display networks. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-021",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "BigQuery",
+      "Python",
+      "dbt"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with SQL and BigQuery. In my recent project 'Automated Marketing Multi-Touch Attribution Engine', I solved this exact challenge: Developed Markov chain and Shapley attribution model across Google, Meta, and TikTok ad channels in BigQuery. The result was Reallocated $400k ad spend, increasing ROAS by 34%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-022",
+    "job_title": "Need expert for Tableau project",
+    "skills_referenced": [
+      "Tableau",
+      "SQL",
+      "Snowflake",
+      "dbt"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-023",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "scikit-learn",
+      "SQL",
+      "Statistics"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and scikit-learn. In my recent project 'E-Commerce Conversion Rate Optimization A/B Testing', I solved this exact challenge: Formulated Bayesian and Frequentist hypothesis testing framework analyzing 1.2M user sessions on checkout flows. The result was Validated checkout redesign that unlocked $850k annual revenue. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-024",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "PostgreSQL",
+      "Excel"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and Pandas. In my recent project 'Supply Chain Inventory Optimization & Reorder Points', I solved this exact challenge: Engineered Monte Carlo simulation calculating safety stocks and optimal reorder quantities across 4,500 SKUs. The result was Decreased inventory carrying costs by 18% while preventing stockouts. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-025",
+    "job_title": "Need expert for PowerBI project",
+    "skills_referenced": [
+      "PowerBI",
+      "SQL",
+      "Python",
+      "Excel"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with PowerBI and SQL. In my recent project 'Healthcare Patient Wait-Time & Resource Allocation Model', I solved this exact challenge: Analyzed emergency room admission bottlenecks using queuing theory and PowerBI visual workflows. The result was Reduced average patient ER wait time by 42 minutes. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-026",
+    "job_title": "Need expert for dbt project",
+    "skills_referenced": [
+      "dbt",
+      "Snowflake",
+      "SQL",
+      "GitHub Actions"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding dbt. I have substantial background in dbt, Snowflake, SQL, GitHub Actions, including delivering 'dbt Data Warehouse Transformation Pipeline'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-027",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Lifetimes",
+      "SQL",
+      "Seaborn"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-028",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "PostgreSQL",
+      "Python",
+      "Tableau"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding SQL. I have substantial background in SQL, PostgreSQL, Python, Tableau, including delivering 'SaaS Product Feature Adoption & Telemetry Analytics'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-029",
+    "job_title": "Need expert for Excel project",
+    "skills_referenced": [
+      "Excel",
+      "Python",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Excel and Python. In my recent project 'Automated Financial Forecasting & Budget Variance Tool', I solved this exact challenge: Designed automated three-statement financial model with scenario planning and automated variance alerts. The result was Replaced 3 days of manual finance reconciliation each month-end. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-030",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "scikit-learn",
+      "PostgreSQL"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, SQL, scikit-learn, PostgreSQL, including delivering 'Fraudulent Merchant Detection & Risk Scoring'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-031",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "NLP",
+      "Tableau"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and SQL. In my recent project 'App Store Optimization (ASO) & Keyword Impact Analysis', I solved this exact challenge: Analyzed keyword ranking fluctuations, conversion rates, and review sentiment across iOS and Android. The result was Drove organic downloads up by 42% over two quarters. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-032",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "Tableau"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and Pandas. In my recent project 'Hospitality Dynamic Pricing & Occupancy Analytics', I solved this exact challenge: Implemented dynamic pricing algorithm balancing seasonal demand, local event data, and hotel room inventory. The result was Increased RevPAR (Revenue Per Available Room) by 14%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-033",
+    "job_title": "Need expert for PowerBI project",
+    "skills_referenced": [
+      "PowerBI",
+      "PostgreSQL",
+      "Excel",
+      "SQL"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-034",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-035",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "PostgreSQL",
+      "Tableau"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and SQL. In my recent project 'Fleet Logistics Fuel Efficiency & Route Telematics', I solved this exact challenge: Processed GPS and telemetry sensor readings for 600 delivery trucks to uncover route inefficiencies. The result was Lowered fleet fuel consumption by 9.3% in first quarter. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-036",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Statsmodels",
+      "SQL",
+      "Seaborn"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, Statsmodels, SQL, Seaborn, including delivering 'Employee Churn & Engagement Sentiment Model'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-037",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "BigQuery",
+      "Python",
+      "Tableau"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with SQL and BigQuery. In my recent project 'Streaming Media Content Consumption & Churn Analysis', I solved this exact challenge: Modeled subscriber watch-time drop-offs and content catalog longevity for indie video streaming platform. The result was Directly guided content acquisition budget of $2.5M. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-038",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "BeautifulSoup",
+      "PostgreSQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, BeautifulSoup, PostgreSQL, PowerBI, including delivering 'Automated Web Scraping for Real Estate Market Intelligence'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-039",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "scikit-learn",
+      "Excel"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, SQL, scikit-learn, Excel, including delivering 'Fintech Loan Default Risk & Credit Bureau Analysis'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-040",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "PyMC",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and PyMC. In my recent project 'Marketing Campaign ROI & Spend Elasticity Models', I solved this exact challenge: Fitted econometrics marketing mix models (MMM) estimating diminishing returns curve across 8 channels. The result was Prevented over-saturation in low-yield display networks. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-041",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "BigQuery",
+      "Python",
+      "dbt"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding SQL. I have substantial background in SQL, BigQuery, Python, dbt, including delivering 'Automated Marketing Multi-Touch Attribution Engine'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-042",
+    "job_title": "Need expert for Tableau project",
+    "skills_referenced": [
+      "Tableau",
+      "SQL",
+      "Snowflake",
+      "dbt"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Tableau and SQL. In my recent project 'Executive Revenue & Cohort Retention BI Suite', I solved this exact challenge: Built comprehensive Tableau dashboards tracking monthly recurring revenue, net retention, and LTV/CAC cohorts. The result was Adopted by C-suite for board reporting and series B funding. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-043",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "scikit-learn",
+      "SQL",
+      "Statistics"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, scikit-learn, SQL, Statistics, including delivering 'E-Commerce Conversion Rate Optimization A/B Testing'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-044",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "PostgreSQL",
+      "Excel"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-045",
+    "job_title": "Need expert for PowerBI project",
+    "skills_referenced": [
+      "PowerBI",
+      "SQL",
+      "Python",
+      "Excel"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding PowerBI. I have substantial background in PowerBI, SQL, Python, Excel, including delivering 'Healthcare Patient Wait-Time & Resource Allocation Model'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-046",
+    "job_title": "Need expert for dbt project",
+    "skills_referenced": [
+      "dbt",
+      "Snowflake",
+      "SQL",
+      "GitHub Actions"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with dbt and Snowflake. In my recent project 'dbt Data Warehouse Transformation Pipeline', I solved this exact challenge: Created 80+ documented and tested dbt models transforming raw transactional event logs into clean star schema. The result was Data refresh time dropped from 6 hours to 24 minutes. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-047",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Lifetimes",
+      "SQL",
+      "Seaborn"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, Lifetimes, SQL, Seaborn, including delivering 'Customer Lifetime Value (CLV) Segmentation & RFM'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-048",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "PostgreSQL",
+      "Python",
+      "Tableau"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding SQL. I have substantial background in SQL, PostgreSQL, Python, Tableau, including delivering 'SaaS Product Feature Adoption & Telemetry Analytics'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-049",
+    "job_title": "Need expert for Excel project",
+    "skills_referenced": [
+      "Excel",
+      "Python",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Excel and Python. In my recent project 'Automated Financial Forecasting & Budget Variance Tool', I solved this exact challenge: Designed automated three-statement financial model with scenario planning and automated variance alerts. The result was Replaced 3 days of manual finance reconciliation each month-end. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-050",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "scikit-learn",
+      "PostgreSQL"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, SQL, scikit-learn, PostgreSQL, including delivering 'Fraudulent Merchant Detection & Risk Scoring'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-051",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "NLP",
+      "Tableau"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, SQL, NLP, Tableau, including delivering 'App Store Optimization (ASO) & Keyword Impact Analysis'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-052",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "Tableau"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, Pandas, SQL, Tableau, including delivering 'Hospitality Dynamic Pricing & Occupancy Analytics'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-053",
+    "job_title": "Need expert for PowerBI project",
+    "skills_referenced": [
+      "PowerBI",
+      "PostgreSQL",
+      "Excel",
+      "SQL"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-054",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-055",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "PostgreSQL",
+      "Tableau"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, SQL, PostgreSQL, Tableau, including delivering 'Fleet Logistics Fuel Efficiency & Route Telematics'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-056",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Statsmodels",
+      "SQL",
+      "Seaborn"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, Statsmodels, SQL, Seaborn, including delivering 'Employee Churn & Engagement Sentiment Model'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-057",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "BigQuery",
+      "Python",
+      "Tableau"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with SQL and BigQuery. In my recent project 'Streaming Media Content Consumption & Churn Analysis', I solved this exact challenge: Modeled subscriber watch-time drop-offs and content catalog longevity for indie video streaming platform. The result was Directly guided content acquisition budget of $2.5M. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-058",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "BeautifulSoup",
+      "PostgreSQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-059",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "scikit-learn",
+      "Excel"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and SQL. In my recent project 'Fintech Loan Default Risk & Credit Bureau Analysis', I solved this exact challenge: Evaluated credit score distributions, debt-to-income ratios, and delinquency transitions for micro-lender. The result was Reduced non-performing loan rate from 6.2% to 3.8%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-060",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "PyMC",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, PyMC, SQL, PowerBI, including delivering 'Marketing Campaign ROI & Spend Elasticity Models'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-061",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "BigQuery",
+      "Python",
+      "dbt"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-062",
+    "job_title": "Need expert for Tableau project",
+    "skills_referenced": [
+      "Tableau",
+      "SQL",
+      "Snowflake",
+      "dbt"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-063",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "scikit-learn",
+      "SQL",
+      "Statistics"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-064",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "PostgreSQL",
+      "Excel"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, Pandas, PostgreSQL, Excel, including delivering 'Supply Chain Inventory Optimization & Reorder Points'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-065",
+    "job_title": "Need expert for PowerBI project",
+    "skills_referenced": [
+      "PowerBI",
+      "SQL",
+      "Python",
+      "Excel"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-066",
+    "job_title": "Need expert for dbt project",
+    "skills_referenced": [
+      "dbt",
+      "Snowflake",
+      "SQL",
+      "GitHub Actions"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding dbt. I have substantial background in dbt, Snowflake, SQL, GitHub Actions, including delivering 'dbt Data Warehouse Transformation Pipeline'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-067",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Lifetimes",
+      "SQL",
+      "Seaborn"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and Lifetimes. In my recent project 'Customer Lifetime Value (CLV) Segmentation & RFM', I solved this exact challenge: Segmented 400k retail customers into RFM tiers and trained BG/NBD predictive purchase model. The result was Targeted email campaign drove 24% higher repeat order frequency. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-068",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "PostgreSQL",
+      "Python",
+      "Tableau"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-069",
+    "job_title": "Need expert for Excel project",
+    "skills_referenced": [
+      "Excel",
+      "Python",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Excel. I have substantial background in Excel, Python, SQL, PowerBI, including delivering 'Automated Financial Forecasting & Budget Variance Tool'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-070",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "scikit-learn",
+      "PostgreSQL"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and SQL. In my recent project 'Fraudulent Merchant Detection & Risk Scoring', I solved this exact challenge: Engineered statistical anomaly detection identifying rogue seller accounts through payment refund patterns. The result was Flagged 94% of suspicious merchant rings prior to payout. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-071",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "NLP",
+      "Tableau"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, SQL, NLP, Tableau, including delivering 'App Store Optimization (ASO) & Keyword Impact Analysis'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-072",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "Tableau"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and Pandas. In my recent project 'Hospitality Dynamic Pricing & Occupancy Analytics', I solved this exact challenge: Implemented dynamic pricing algorithm balancing seasonal demand, local event data, and hotel room inventory. The result was Increased RevPAR (Revenue Per Available Room) by 14%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-073",
+    "job_title": "Need expert for PowerBI project",
+    "skills_referenced": [
+      "PowerBI",
+      "PostgreSQL",
+      "Excel",
+      "SQL"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-074",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-075",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "PostgreSQL",
+      "Tableau"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, SQL, PostgreSQL, Tableau, including delivering 'Fleet Logistics Fuel Efficiency & Route Telematics'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-076",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Statsmodels",
+      "SQL",
+      "Seaborn"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and Statsmodels. In my recent project 'Employee Churn & Engagement Sentiment Model', I solved this exact challenge: Analyzed internal pulse surveys and HR indicators using logistic regression to identify attrition drivers. The result was Enabled HR intervention that reduced senior engineer turnover by 25%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-077",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "BigQuery",
+      "Python",
+      "Tableau"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-078",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "BeautifulSoup",
+      "PostgreSQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, BeautifulSoup, PostgreSQL, PowerBI, including delivering 'Automated Web Scraping for Real Estate Market Intelligence'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-079",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "scikit-learn",
+      "Excel"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, SQL, scikit-learn, Excel, including delivering 'Fintech Loan Default Risk & Credit Bureau Analysis'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-080",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "PyMC",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, PyMC, SQL, PowerBI, including delivering 'Marketing Campaign ROI & Spend Elasticity Models'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-081",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "BigQuery",
+      "Python",
+      "dbt"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with SQL and BigQuery. In my recent project 'Automated Marketing Multi-Touch Attribution Engine', I solved this exact challenge: Developed Markov chain and Shapley attribution model across Google, Meta, and TikTok ad channels in BigQuery. The result was Reallocated $400k ad spend, increasing ROAS by 34%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-082",
+    "job_title": "Need expert for Tableau project",
+    "skills_referenced": [
+      "Tableau",
+      "SQL",
+      "Snowflake",
+      "dbt"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-083",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "scikit-learn",
+      "SQL",
+      "Statistics"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, scikit-learn, SQL, Statistics, including delivering 'E-Commerce Conversion Rate Optimization A/B Testing'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-084",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "PostgreSQL",
+      "Excel"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, Pandas, PostgreSQL, Excel, including delivering 'Supply Chain Inventory Optimization & Reorder Points'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-085",
+    "job_title": "Need expert for PowerBI project",
+    "skills_referenced": [
+      "PowerBI",
+      "SQL",
+      "Python",
+      "Excel"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-086",
+    "job_title": "Need expert for dbt project",
+    "skills_referenced": [
+      "dbt",
+      "Snowflake",
+      "SQL",
+      "GitHub Actions"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-087",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Lifetimes",
+      "SQL",
+      "Seaborn"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-088",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "PostgreSQL",
+      "Python",
+      "Tableau"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding SQL. I have substantial background in SQL, PostgreSQL, Python, Tableau, including delivering 'SaaS Product Feature Adoption & Telemetry Analytics'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-089",
+    "job_title": "Need expert for Excel project",
+    "skills_referenced": [
+      "Excel",
+      "Python",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Excel and Python. In my recent project 'Automated Financial Forecasting & Budget Variance Tool', I solved this exact challenge: Designed automated three-statement financial model with scenario planning and automated variance alerts. The result was Replaced 3 days of manual finance reconciliation each month-end. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-090",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "scikit-learn",
+      "PostgreSQL"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and SQL. In my recent project 'Fraudulent Merchant Detection & Risk Scoring', I solved this exact challenge: Engineered statistical anomaly detection identifying rogue seller accounts through payment refund patterns. The result was Flagged 94% of suspicious merchant rings prior to payout. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-091",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "NLP",
+      "Tableau"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and SQL. In my recent project 'App Store Optimization (ASO) & Keyword Impact Analysis', I solved this exact challenge: Analyzed keyword ranking fluctuations, conversion rates, and review sentiment across iOS and Android. The result was Drove organic downloads up by 42% over two quarters. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-092",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "Tableau"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-093",
+    "job_title": "Need expert for PowerBI project",
+    "skills_referenced": [
+      "PowerBI",
+      "PostgreSQL",
+      "Excel",
+      "SQL"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-094",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-095",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "PostgreSQL",
+      "Tableau"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, SQL, PostgreSQL, Tableau, including delivering 'Fleet Logistics Fuel Efficiency & Route Telematics'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-096",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Statsmodels",
+      "SQL",
+      "Seaborn"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-097",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "BigQuery",
+      "Python",
+      "Tableau"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding SQL. I have substantial background in SQL, BigQuery, Python, Tableau, including delivering 'Streaming Media Content Consumption & Churn Analysis'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-098",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "BeautifulSoup",
+      "PostgreSQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, BeautifulSoup, PostgreSQL, PowerBI, including delivering 'Automated Web Scraping for Real Estate Market Intelligence'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-099",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "scikit-learn",
+      "Excel"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-100",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "PyMC",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-101",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "BigQuery",
+      "Python",
+      "dbt"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding SQL. I have substantial background in SQL, BigQuery, Python, dbt, including delivering 'Automated Marketing Multi-Touch Attribution Engine'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-102",
+    "job_title": "Need expert for Tableau project",
+    "skills_referenced": [
+      "Tableau",
+      "SQL",
+      "Snowflake",
+      "dbt"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Tableau and SQL. In my recent project 'Executive Revenue & Cohort Retention BI Suite', I solved this exact challenge: Built comprehensive Tableau dashboards tracking monthly recurring revenue, net retention, and LTV/CAC cohorts. The result was Adopted by C-suite for board reporting and series B funding. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-103",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "scikit-learn",
+      "SQL",
+      "Statistics"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and scikit-learn. In my recent project 'E-Commerce Conversion Rate Optimization A/B Testing', I solved this exact challenge: Formulated Bayesian and Frequentist hypothesis testing framework analyzing 1.2M user sessions on checkout flows. The result was Validated checkout redesign that unlocked $850k annual revenue. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-104",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "PostgreSQL",
+      "Excel"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and Pandas. In my recent project 'Supply Chain Inventory Optimization & Reorder Points', I solved this exact challenge: Engineered Monte Carlo simulation calculating safety stocks and optimal reorder quantities across 4,500 SKUs. The result was Decreased inventory carrying costs by 18% while preventing stockouts. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-105",
+    "job_title": "Need expert for PowerBI project",
+    "skills_referenced": [
+      "PowerBI",
+      "SQL",
+      "Python",
+      "Excel"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding PowerBI. I have substantial background in PowerBI, SQL, Python, Excel, including delivering 'Healthcare Patient Wait-Time & Resource Allocation Model'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-106",
+    "job_title": "Need expert for dbt project",
+    "skills_referenced": [
+      "dbt",
+      "Snowflake",
+      "SQL",
+      "GitHub Actions"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with dbt and Snowflake. In my recent project 'dbt Data Warehouse Transformation Pipeline', I solved this exact challenge: Created 80+ documented and tested dbt models transforming raw transactional event logs into clean star schema. The result was Data refresh time dropped from 6 hours to 24 minutes. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-107",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Lifetimes",
+      "SQL",
+      "Seaborn"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, Lifetimes, SQL, Seaborn, including delivering 'Customer Lifetime Value (CLV) Segmentation & RFM'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-108",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "PostgreSQL",
+      "Python",
+      "Tableau"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with SQL and PostgreSQL. In my recent project 'SaaS Product Feature Adoption & Telemetry Analytics', I solved this exact challenge: Constructed Mixpanel & PostHog telemetry analysis tracking user activation funnels and drop-off points. The result was Improved Day-7 user onboarding retention by 16%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-109",
+    "job_title": "Need expert for Excel project",
+    "skills_referenced": [
+      "Excel",
+      "Python",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-110",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "scikit-learn",
+      "PostgreSQL"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and SQL. In my recent project 'Fraudulent Merchant Detection & Risk Scoring', I solved this exact challenge: Engineered statistical anomaly detection identifying rogue seller accounts through payment refund patterns. The result was Flagged 94% of suspicious merchant rings prior to payout. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-111",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "NLP",
+      "Tableau"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-112",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "Tableau"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-113",
+    "job_title": "Need expert for PowerBI project",
+    "skills_referenced": [
+      "PowerBI",
+      "PostgreSQL",
+      "Excel",
+      "SQL"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-114",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and Pandas. In my recent project 'Retail Basket Analysis & Cross-Sell Recommendation Matrix', I solved this exact challenge: Applied Apriori association rule mining on 3M supermarket checkout receipts to optimize shelf placement. The result was Promotional cross-sell bundles boosted average basket value by 11%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-115",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "PostgreSQL",
+      "Tableau"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, SQL, PostgreSQL, Tableau, including delivering 'Fleet Logistics Fuel Efficiency & Route Telematics'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-116",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Statsmodels",
+      "SQL",
+      "Seaborn"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-117",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "BigQuery",
+      "Python",
+      "Tableau"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with SQL and BigQuery. In my recent project 'Streaming Media Content Consumption & Churn Analysis', I solved this exact challenge: Modeled subscriber watch-time drop-offs and content catalog longevity for indie video streaming platform. The result was Directly guided content acquisition budget of $2.5M. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-118",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "BeautifulSoup",
+      "PostgreSQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and BeautifulSoup. In my recent project 'Automated Web Scraping for Real Estate Market Intelligence', I solved this exact challenge: Built automated daily scrape of property listings, calculating price-per-square-foot yield heatmaps. The result was Identified undervalued commercial assets yielding 12% cap rate. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-119",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "scikit-learn",
+      "Excel"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-120",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "PyMC",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-121",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "BigQuery",
+      "Python",
+      "dbt"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with SQL and BigQuery. In my recent project 'Automated Marketing Multi-Touch Attribution Engine', I solved this exact challenge: Developed Markov chain and Shapley attribution model across Google, Meta, and TikTok ad channels in BigQuery. The result was Reallocated $400k ad spend, increasing ROAS by 34%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-122",
+    "job_title": "Need expert for Tableau project",
+    "skills_referenced": [
+      "Tableau",
+      "SQL",
+      "Snowflake",
+      "dbt"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-123",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "scikit-learn",
+      "SQL",
+      "Statistics"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and scikit-learn. In my recent project 'E-Commerce Conversion Rate Optimization A/B Testing', I solved this exact challenge: Formulated Bayesian and Frequentist hypothesis testing framework analyzing 1.2M user sessions on checkout flows. The result was Validated checkout redesign that unlocked $850k annual revenue. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-124",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "PostgreSQL",
+      "Excel"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and Pandas. In my recent project 'Supply Chain Inventory Optimization & Reorder Points', I solved this exact challenge: Engineered Monte Carlo simulation calculating safety stocks and optimal reorder quantities across 4,500 SKUs. The result was Decreased inventory carrying costs by 18% while preventing stockouts. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-125",
+    "job_title": "Need expert for PowerBI project",
+    "skills_referenced": [
+      "PowerBI",
+      "SQL",
+      "Python",
+      "Excel"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding PowerBI. I have substantial background in PowerBI, SQL, Python, Excel, including delivering 'Healthcare Patient Wait-Time & Resource Allocation Model'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-126",
+    "job_title": "Need expert for dbt project",
+    "skills_referenced": [
+      "dbt",
+      "Snowflake",
+      "SQL",
+      "GitHub Actions"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-127",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Lifetimes",
+      "SQL",
+      "Seaborn"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and Lifetimes. In my recent project 'Customer Lifetime Value (CLV) Segmentation & RFM', I solved this exact challenge: Segmented 400k retail customers into RFM tiers and trained BG/NBD predictive purchase model. The result was Targeted email campaign drove 24% higher repeat order frequency. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-128",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "PostgreSQL",
+      "Python",
+      "Tableau"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding SQL. I have substantial background in SQL, PostgreSQL, Python, Tableau, including delivering 'SaaS Product Feature Adoption & Telemetry Analytics'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-129",
+    "job_title": "Need expert for Excel project",
+    "skills_referenced": [
+      "Excel",
+      "Python",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-130",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "scikit-learn",
+      "PostgreSQL"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-131",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "NLP",
+      "Tableau"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, SQL, NLP, Tableau, including delivering 'App Store Optimization (ASO) & Keyword Impact Analysis'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-132",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "Tableau"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-133",
+    "job_title": "Need expert for PowerBI project",
+    "skills_referenced": [
+      "PowerBI",
+      "PostgreSQL",
+      "Excel",
+      "SQL"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with PowerBI and PostgreSQL. In my recent project 'Sales Compensation & Quota Attainment Dashboard', I solved this exact challenge: Automated commission tier calculations and quota tracking for 120 enterprise account executives. The result was Eliminated commission dispute backlog entirely. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-134",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-135",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "PostgreSQL",
+      "Tableau"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and SQL. In my recent project 'Fleet Logistics Fuel Efficiency & Route Telematics', I solved this exact challenge: Processed GPS and telemetry sensor readings for 600 delivery trucks to uncover route inefficiencies. The result was Lowered fleet fuel consumption by 9.3% in first quarter. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-136",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Statsmodels",
+      "SQL",
+      "Seaborn"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and Statsmodels. In my recent project 'Employee Churn & Engagement Sentiment Model', I solved this exact challenge: Analyzed internal pulse surveys and HR indicators using logistic regression to identify attrition drivers. The result was Enabled HR intervention that reduced senior engineer turnover by 25%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-137",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "BigQuery",
+      "Python",
+      "Tableau"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding SQL. I have substantial background in SQL, BigQuery, Python, Tableau, including delivering 'Streaming Media Content Consumption & Churn Analysis'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-138",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "BeautifulSoup",
+      "PostgreSQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Python and BeautifulSoup. In my recent project 'Automated Web Scraping for Real Estate Market Intelligence', I solved this exact challenge: Built automated daily scrape of property listings, calculating price-per-square-foot yield heatmaps. The result was Identified undervalued commercial assets yielding 12% cap rate. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-139",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "scikit-learn",
+      "Excel"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-140",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "PyMC",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, PyMC, SQL, PowerBI, including delivering 'Marketing Campaign ROI & Spend Elasticity Models'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-141",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "BigQuery",
+      "Python",
+      "dbt"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with SQL and BigQuery. In my recent project 'Automated Marketing Multi-Touch Attribution Engine', I solved this exact challenge: Developed Markov chain and Shapley attribution model across Google, Meta, and TikTok ad channels in BigQuery. The result was Reallocated $400k ad spend, increasing ROAS by 34%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-142",
+    "job_title": "Need expert for Tableau project",
+    "skills_referenced": [
+      "Tableau",
+      "SQL",
+      "Snowflake",
+      "dbt"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Tableau. I have substantial background in Tableau, SQL, Snowflake, dbt, including delivering 'Executive Revenue & Cohort Retention BI Suite'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-143",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "scikit-learn",
+      "SQL",
+      "Statistics"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, scikit-learn, SQL, Statistics, including delivering 'E-Commerce Conversion Rate Optimization A/B Testing'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-144",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Pandas",
+      "PostgreSQL",
+      "Excel"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, Pandas, PostgreSQL, Excel, including delivering 'Supply Chain Inventory Optimization & Reorder Points'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-145",
+    "job_title": "Need expert for PowerBI project",
+    "skills_referenced": [
+      "PowerBI",
+      "SQL",
+      "Python",
+      "Excel"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-146",
+    "job_title": "Need expert for dbt project",
+    "skills_referenced": [
+      "dbt",
+      "Snowflake",
+      "SQL",
+      "GitHub Actions"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding dbt. I have substantial background in dbt, Snowflake, SQL, GitHub Actions, including delivering 'dbt Data Warehouse Transformation Pipeline'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-147",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "Lifetimes",
+      "SQL",
+      "Seaborn"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Python. I have substantial background in Python, Lifetimes, SQL, Seaborn, including delivering 'Customer Lifetime Value (CLV) Segmentation & RFM'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-148",
+    "job_title": "Need expert for SQL project",
+    "skills_referenced": [
+      "SQL",
+      "PostgreSQL",
+      "Python",
+      "Tableau"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with SQL and PostgreSQL. In my recent project 'SaaS Product Feature Adoption & Telemetry Analytics', I solved this exact challenge: Constructed Mixpanel & PostHog telemetry analysis tracking user activation funnels and drop-off points. The result was Improved Day-7 user onboarding retention by 16%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-149",
+    "job_title": "Need expert for Excel project",
+    "skills_referenced": [
+      "Excel",
+      "Python",
+      "SQL",
+      "PowerBI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Excel and Python. In my recent project 'Automated Financial Forecasting & Budget Variance Tool', I solved this exact challenge: Designed automated three-statement financial model with scenario planning and automated variance alerts. The result was Replaced 3 days of manual finance reconciliation each month-end. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1125,
+    "evidence_used": [
+      "case-da-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-da-150",
+    "job_title": "Need expert for Python project",
+    "skills_referenced": [
+      "Python",
+      "SQL",
+      "scikit-learn",
+      "PostgreSQL"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3000,
+    "evidence_used": [
+      "case-da-011"
+    ]
+  }
+]

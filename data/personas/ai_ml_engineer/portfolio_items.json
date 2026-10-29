@@ -1,0 +1,302 @@
+[
+  {
+    "evidence_id": "case-ai-001",
+    "freelancer_id": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Enterprise Multi-Agent Customer Support System",
+    "summary": "Built a multi-agent triage and resolution network using LangGraph and FastAPI, reducing response time by 64% and serving 100k daily queries.",
+    "skills": [
+      "LangGraph",
+      "FastAPI",
+      "Redis",
+      "Python"
+    ],
+    "outcome": "Production deployed across 12 countries",
+    "source": "portfolio://case/case-ai-001"
+  },
+  {
+    "evidence_id": "case-ai-002",
+    "freelancer_id": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "High-Throughput Hybrid RAG Pipeline for Legal Contracts",
+    "summary": "Architected hybrid BM25 + dense retrieval with BGE reranking over 500k legal PDFs with KaTeX math rendering and citation verification.",
+    "skills": [
+      "Python",
+      "Pinecone",
+      "BGE Reranker",
+      "LangChain"
+    ],
+    "outcome": "98.4% citation recall and zero hallucinated statutes",
+    "source": "portfolio://case/case-ai-002"
+  },
+  {
+    "evidence_id": "case-ai-003",
+    "freelancer_id": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Real-Time Fraud Detection Engine on Financial Streams",
+    "summary": "Engineered XGBoost & LightGBM streaming inference system processing 45,000 tx/sec with under 15ms latency.",
+    "skills": [
+      "Python",
+      "Kafka",
+      "LightGBM",
+      "Docker"
+    ],
+    "outcome": "Saved client $1.4M in fraudulent chargebacks in Q1",
+    "source": "portfolio://case/case-ai-003"
+  },
+  {
+    "evidence_id": "case-ai-004",
+    "freelancer_id": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Self-Hosted LLM Inference Cluster with vLLM & Ray",
+    "summary": "Configured scalable 8x A100 GPU cluster deploying Qwen and Llama-3 models with continuous batching and PagedAttention.",
+    "skills": [
+      "vLLM",
+      "Ray",
+      "Kubernetes",
+      "PyTorch"
+    ],
+    "outcome": "Cut external OpenAI API costs by 72%",
+    "source": "portfolio://case/case-ai-004"
+  },
+  {
+    "evidence_id": "case-ai-005",
+    "freelancer_id": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Predictive Churn Model and Retention Dashboard",
+    "summary": "Developed customer churn prediction with scikit-learn and SHAP interpretability for SaaS company with 250k subscribers.",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "FastAPI",
+      "Postgres"
+    ],
+    "outcome": "Lifted retention campaign conversion by 28%",
+    "source": "portfolio://case/case-ai-005"
+  },
+  {
+    "evidence_id": "case-ai-006",
+    "freelancer_id": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Automated Clinical Trial Data Extraction using Medical LLMs",
+    "summary": "Fine-tuned Med-Llama on clinical documents, implementing strict JSON output parsing and medical entity grounding.",
+    "skills": [
+      "PyTorch",
+      "HuggingFace",
+      "LoRA",
+      "Docker"
+    ],
+    "outcome": "Processed 40,000 clinical abstracts with 96% F1",
+    "source": "portfolio://case/case-ai-006"
+  },
+  {
+    "evidence_id": "case-ai-007",
+    "freelancer_id": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "GraphRAG Knowledge Engine for Biomedical Research",
+    "summary": "Constructed Neo4j knowledge graph coupled with LangChain agents to extract protein-disease interactions from PubMed.",
+    "skills": [
+      "Neo4j",
+      "LangChain",
+      "Python",
+      "GraphRAG"
+    ],
+    "outcome": "Adopted by biotech research division",
+    "source": "portfolio://case/case-ai-007"
+  },
+  {
+    "evidence_id": "case-ai-008",
+    "freelancer_id": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Edge Computer Vision Quality Inspection in Manufacturing",
+    "summary": "Deployed YOLOv8 models on Jetson Orin edge devices for real-time PCB defect detection running at 60 FPS.",
+    "skills": [
+      "YOLOv8",
+      "TensorRT",
+      "OpenCV",
+      "Python"
+    ],
+    "outcome": "Defect detection rate improved from 88% to 99.4%",
+    "source": "portfolio://case/case-ai-008"
+  },
+  {
+    "evidence_id": "case-ai-009",
+    "freelancer_id": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Time-Series Forecasting for Retail Supply Chain",
+    "summary": "Designed hierarchical Prophet and Temporal Fusion Transformer pipeline forecasting inventory demand for 3,000 stores.",
+    "skills": [
+      "Python",
+      "PyTorch Forecasting",
+      "AWS S3",
+      "Docker"
+    ],
+    "outcome": "Reduced out-of-stock incidents by 22%",
+    "source": "portfolio://case/case-ai-009"
+  },
+  {
+    "evidence_id": "case-ai-010",
+    "freelancer_id": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Agentic Code Review & Security Audit Bot",
+    "summary": "Created GitHub Action integration with LangGraph agent verifying PR compliance, AST analysis, and security vulnerabilities.",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "GitHub API",
+      "FastAPI"
+    ],
+    "outcome": "Merged into 40+ enterprise repos, reviewing 500 PRs/week",
+    "source": "portfolio://case/case-ai-010"
+  },
+  {
+    "evidence_id": "case-ai-011",
+    "freelancer_id": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Multi-Modal Product Search & Visual Recommendation",
+    "summary": "Built multimodal CLIP-based embedding search enabling reverse-image product discovery for e-commerce client.",
+    "skills": [
+      "CLIP",
+      "Qdrant",
+      "FastAPI",
+      "Python"
+    ],
+    "outcome": "Boosted search-to-cart conversion rate by 19%",
+    "source": "portfolio://case/case-ai-011"
+  },
+  {
+    "evidence_id": "case-ai-012",
+    "freelancer_id": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Voice-Enabled AI Dispatch Assistant with Live Audio API",
+    "summary": "Developed low-latency WebSocket speech-to-speech assistant for logistics dispatchers using Whisper and Kokoro TTS.",
+    "skills": [
+      "WebSockets",
+      "FastAPI",
+      "Whisper",
+      "Python"
+    ],
+    "outcome": "Average call handling time dropped by 4.2 minutes",
+    "source": "portfolio://case/case-ai-012"
+  },
+  {
+    "evidence_id": "case-ai-013",
+    "freelancer_id": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Document Anonymization & PII Redaction Pipeline",
+    "summary": "Engineered high-speed Presidio-based NER and regex redaction pipeline processing millions of HIPAA-regulated medical records.",
+    "skills": [
+      "Python",
+      "SpaCy",
+      "Presidio",
+      "FastAPI"
+    ],
+    "outcome": "Zero PII leakage on 100k audit batch",
+    "source": "portfolio://case/case-ai-013"
+  },
+  {
+    "evidence_id": "case-ai-014",
+    "freelancer_id": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Fine-Tuned Function-Calling Specialist Model",
+    "summary": "Applied Unsloth and QLoRA on Mistral-7B to create private tool-calling LLM achieving 94% JSON schema compliance.",
+    "skills": [
+      "Unsloth",
+      "LoRA",
+      "HuggingFace",
+      "vLLM"
+    ],
+    "outcome": "Replaced GPT-4 Turbo for internal ERP tools",
+    "source": "portfolio://case/case-ai-014"
+  },
+  {
+    "evidence_id": "case-ai-015",
+    "freelancer_id": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Automated ETL & Semantic Caching Layer",
+    "summary": "Implemented Redis semantic cache and LangChain embeddings layer reducing LLM API token consumption by 48%.",
+    "skills": [
+      "Redis",
+      "Python",
+      "FastAPI",
+      "LangChain"
+    ],
+    "outcome": "Sub-50ms cache hits on repeated queries",
+    "source": "portfolio://case/case-ai-015"
+  },
+  {
+    "evidence_id": "case-ai-016",
+    "freelancer_id": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Synthetic Tabular Data Generator with CTGAN",
+    "summary": "Designed privacy-preserving synthetic data generation platform for banking risk modeling using Conditional GANs.",
+    "skills": [
+      "Python",
+      "CTGAN",
+      "scikit-learn",
+      "Postgres"
+    ],
+    "outcome": "Passed strict regulatory privacy audits",
+    "source": "portfolio://case/case-ai-016"
+  },
+  {
+    "evidence_id": "case-ai-017",
+    "freelancer_id": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Multilingual Semantic FAQ Search for Government Agency",
+    "summary": "Deployed multilingual BGE-M3 embedding search serving citizen queries in 14 languages with reciprocal rank fusion.",
+    "skills": [
+      "BGE-M3",
+      "FastAPI",
+      "Docker",
+      "Python"
+    ],
+    "outcome": "Served 2 million requests with 99.9% uptime",
+    "source": "portfolio://case/case-ai-017"
+  },
+  {
+    "evidence_id": "case-ai-018",
+    "freelancer_id": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Autonomous Web Scraping & Trend Intelligence Bot",
+    "summary": "Built resilient Playwright crawling pipeline with automated proxy rotation and structured markdown summarization.",
+    "skills": [
+      "Python",
+      "Playwright",
+      "FastAPI",
+      "Postgres"
+    ],
+    "outcome": "Monitored 1,200 competitor pricing pages daily",
+    "source": "portfolio://case/case-ai-018"
+  },
+  {
+    "evidence_id": "case-ai-019",
+    "freelancer_id": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "End-to-End MLOps Pipeline with Feast & MLflow",
+    "summary": "Standardized enterprise feature store and experiment tracking pipeline on AWS, managing 50+ production ML models.",
+    "skills": [
+      "MLflow",
+      "Feast",
+      "AWS",
+      "Docker"
+    ],
+    "outcome": "Reduced model deployment cycle from 6 weeks to 3 days",
+    "source": "portfolio://case/case-ai-019"
+  },
+  {
+    "evidence_id": "case-ai-020",
+    "freelancer_id": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Agentic Financial Analyst with Tool Grounding",
+    "summary": "Constructed LangGraph agent integrating Yahoo Finance, SEC EDGAR tools, and automated KaTeX financial report generation.",
+    "skills": [
+      "LangGraph",
+      "FastAPI",
+      "Python",
+      "Docker"
+    ],
+    "outcome": "Generates verified equity research summaries in 30 seconds",
+    "source": "portfolio://case/case-ai-020"
+  }
+]

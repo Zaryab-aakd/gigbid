@@ -1,0 +1,137 @@
+[
+  {
+    "review_id": "rev-da-01",
+    "client_name": "Client B Inc.",
+    "industry": "Healthcare",
+    "rating": 5.0,
+    "date": "2025-02-20",
+    "comment": "Outstanding delivery from Maya Patel. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 5007
+  },
+  {
+    "review_id": "rev-da-02",
+    "client_name": "Client C Inc.",
+    "industry": "E-Commerce",
+    "rating": 5.0,
+    "date": "2025-03-20",
+    "comment": "Outstanding delivery from Maya Patel. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 10424
+  },
+  {
+    "review_id": "rev-da-03",
+    "client_name": "Client D Inc.",
+    "industry": "LegalTech",
+    "rating": 5.0,
+    "date": "2025-04-20",
+    "comment": "Outstanding delivery from Maya Patel. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 8401
+  },
+  {
+    "review_id": "rev-da-04",
+    "client_name": "Client E Inc.",
+    "industry": "Logistics",
+    "rating": 5.0,
+    "date": "2025-05-20",
+    "comment": "Outstanding delivery from Maya Patel. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 8171
+  },
+  {
+    "review_id": "rev-da-05",
+    "client_name": "Client F Inc.",
+    "industry": "LegalTech",
+    "rating": 5.0,
+    "date": "2025-06-20",
+    "comment": "Outstanding delivery from Maya Patel. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 17508
+  },
+  {
+    "review_id": "rev-da-06",
+    "client_name": "Client G Inc.",
+    "industry": "LegalTech",
+    "rating": 5.0,
+    "date": "2025-07-20",
+    "comment": "Outstanding delivery from Maya Patel. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 3164
+  },
+  {
+    "review_id": "rev-da-07",
+    "client_name": "Client H Inc.",
+    "industry": "Healthcare",
+    "rating": 5.0,
+    "date": "2025-08-20",
+    "comment": "Outstanding delivery from Maya Patel. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 15379
+  },
+  {
+    "review_id": "rev-da-08",
+    "client_name": "Client I Inc.",
+    "industry": "LegalTech",
+    "rating": 5.0,
+    "date": "2025-09-20",
+    "comment": "Outstanding delivery from Maya Patel. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 2944
+  },
+  {
+    "review_id": "rev-da-09",
+    "client_name": "Client J Inc.",
+    "industry": "FinTech",
+    "rating": 5.0,
+    "date": "2025-10-20",
+    "comment": "Outstanding delivery from Maya Patel. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 12429
+  },
+  {
+    "review_id": "rev-da-10",
+    "client_name": "Client K Inc.",
+    "industry": "E-Commerce",
+    "rating": 5.0,
+    "date": "2025-11-20",
+    "comment": "Outstanding delivery from Maya Patel. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 10083
+  },
+  {
+    "review_id": "rev-da-11",
+    "client_name": "Client L Inc.",
+    "industry": "E-Commerce",
+    "rating": 5.0,
+    "date": "2025-12-20",
+    "comment": "Outstanding delivery from Maya Patel. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 15978
+  },
+  {
+    "review_id": "rev-da-12",
+    "client_name": "Client M Inc.",
+    "industry": "BioTech",
+    "rating": 5.0,
+    "date": "2025-01-20",
+    "comment": "Outstanding delivery from Maya Patel. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 1816
+  },
+  {
+    "review_id": "rev-da-13",
+    "client_name": "Client N Inc.",
+    "industry": "Healthcare",
+    "rating": 5.0,
+    "date": "2025-02-20",
+    "comment": "Outstanding delivery from Maya Patel. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 3965
+  },
+  {
+    "review_id": "rev-da-14",
+    "client_name": "Client O Inc.",
+    "industry": "E-Commerce",
+    "rating": 4.8,
+    "date": "2025-03-20",
+    "comment": "Outstanding delivery from Maya Patel. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 2680
+  },
+  {
+    "review_id": "rev-da-15",
+    "client_name": "Client P Inc.",
+    "industry": "Logistics",
+    "rating": 4.8,
+    "date": "2025-04-20",
+    "comment": "Outstanding delivery from Maya Patel. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 6352
+  }
+]

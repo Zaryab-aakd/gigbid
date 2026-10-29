@@ -1,0 +1,137 @@
+[
+  {
+    "review_id": "rev-fu-01",
+    "client_name": "Client B Inc.",
+    "industry": "Healthcare",
+    "rating": 5.0,
+    "date": "2025-02-20",
+    "comment": "Outstanding delivery from Jordan Lee. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 5620
+  },
+  {
+    "review_id": "rev-fu-02",
+    "client_name": "Client C Inc.",
+    "industry": "E-Commerce",
+    "rating": 5.0,
+    "date": "2025-03-20",
+    "comment": "Outstanding delivery from Jordan Lee. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 17074
+  },
+  {
+    "review_id": "rev-fu-03",
+    "client_name": "Client D Inc.",
+    "industry": "E-Commerce",
+    "rating": 5.0,
+    "date": "2025-04-20",
+    "comment": "Outstanding delivery from Jordan Lee. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 10185
+  },
+  {
+    "review_id": "rev-fu-04",
+    "client_name": "Client E Inc.",
+    "industry": "BioTech",
+    "rating": 5.0,
+    "date": "2025-05-20",
+    "comment": "Outstanding delivery from Jordan Lee. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 8440
+  },
+  {
+    "review_id": "rev-fu-05",
+    "client_name": "Client F Inc.",
+    "industry": "SaaS",
+    "rating": 5.0,
+    "date": "2025-06-20",
+    "comment": "Outstanding delivery from Jordan Lee. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 11714
+  },
+  {
+    "review_id": "rev-fu-06",
+    "client_name": "Client G Inc.",
+    "industry": "BioTech",
+    "rating": 5.0,
+    "date": "2025-07-20",
+    "comment": "Outstanding delivery from Jordan Lee. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 13736
+  },
+  {
+    "review_id": "rev-fu-07",
+    "client_name": "Client H Inc.",
+    "industry": "EdTech",
+    "rating": 5.0,
+    "date": "2025-08-20",
+    "comment": "Outstanding delivery from Jordan Lee. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 16294
+  },
+  {
+    "review_id": "rev-fu-08",
+    "client_name": "Client I Inc.",
+    "industry": "Healthcare",
+    "rating": 5.0,
+    "date": "2025-09-20",
+    "comment": "Outstanding delivery from Jordan Lee. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 9623
+  },
+  {
+    "review_id": "rev-fu-09",
+    "client_name": "Client J Inc.",
+    "industry": "SaaS",
+    "rating": 5.0,
+    "date": "2025-10-20",
+    "comment": "Outstanding delivery from Jordan Lee. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 3598
+  },
+  {
+    "review_id": "rev-fu-10",
+    "client_name": "Client K Inc.",
+    "industry": "Logistics",
+    "rating": 5.0,
+    "date": "2025-11-20",
+    "comment": "Outstanding delivery from Jordan Lee. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 2189
+  },
+  {
+    "review_id": "rev-fu-11",
+    "client_name": "Client L Inc.",
+    "industry": "SaaS",
+    "rating": 5.0,
+    "date": "2025-12-20",
+    "comment": "Outstanding delivery from Jordan Lee. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 8716
+  },
+  {
+    "review_id": "rev-fu-12",
+    "client_name": "Client M Inc.",
+    "industry": "FinTech",
+    "rating": 5.0,
+    "date": "2025-01-20",
+    "comment": "Outstanding delivery from Jordan Lee. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 3826
+  },
+  {
+    "review_id": "rev-fu-13",
+    "client_name": "Client N Inc.",
+    "industry": "FinTech",
+    "rating": 5.0,
+    "date": "2025-02-20",
+    "comment": "Outstanding delivery from Jordan Lee. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 9001
+  },
+  {
+    "review_id": "rev-fu-14",
+    "client_name": "Client O Inc.",
+    "industry": "Healthcare",
+    "rating": 4.8,
+    "date": "2025-03-20",
+    "comment": "Outstanding delivery from Jordan Lee. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 2529
+  },
+  {
+    "review_id": "rev-fu-15",
+    "client_name": "Client P Inc.",
+    "industry": "Logistics",
+    "rating": 4.8,
+    "date": "2025-04-20",
+    "comment": "Outstanding delivery from Jordan Lee. Technical excellence, thorough communication, and delivered ahead of schedule.",
+    "project_budget": 3821
+  }
+]

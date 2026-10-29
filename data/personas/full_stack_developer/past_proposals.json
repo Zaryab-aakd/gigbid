@@ -1,0 +1,2410 @@
+[
+  {
+    "proposal_id": "prop-fu-001",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "TypeScript",
+      "WebSockets",
+      "Node.js"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Next.js. I have substantial background in Next.js, TypeScript, WebSockets, Node.js, including delivering 'Real-Time Collaborative Canvas Platform'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-002",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-003",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "Next.js",
+      "GraphQL",
+      "Stripe",
+      "Redis"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with React and Next.js. In my recent project 'Multi-Tenant E-Commerce Headless Storefront', I solved this exact challenge: Architected headless Shopify storefront with Next.js, GraphQL, Redis caching, and Stripe payments. The result was Handled $3M in Black Friday sales without downtime. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-004",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "React",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding FastAPI. I have substantial background in FastAPI, React, PostgreSQL, Docker, including delivering 'Role-Based RBAC Admin Portal with Audit Logging'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-005",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "TypeScript",
+      "Zustand",
+      "FastAPI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-006",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "FastAPI",
+      "FFmpeg",
+      "AWS S3"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding React. I have substantial background in React, FastAPI, FFmpeg, AWS S3, including delivering 'Streaming Video & Media Transcription Workspace'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-007",
+    "job_title": "Need expert for Playwright project",
+    "skills_referenced": [
+      "Playwright",
+      "Docker",
+      "GitHub Actions",
+      "TypeScript"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-008",
+    "job_title": "Need expert for TypeScript project",
+    "skills_referenced": [
+      "TypeScript",
+      "React",
+      "WebSockets",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding TypeScript. I have substantial background in TypeScript, React, WebSockets, TailwindCSS, including delivering 'Real-Time Crypto & Stock Trading Interface'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-009",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "TypeScript",
+      "TipTap",
+      "FastAPI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-010",
+    "job_title": "Need expert for Node.js project",
+    "skills_referenced": [
+      "Node.js",
+      "FastAPI",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-011",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "PostgreSQL",
+      "WebAuthn",
+      "Docker"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Next.js and PostgreSQL. In my recent project 'Healthcare Patient Portal with HIPAA Compliance', I solved this exact challenge: Built encrypted patient communication app with end-to-end audit logs, biometric WebAuthn, and telehealth appointments. The result was Full HIPAA compliance certification achieved. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-012",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "RabbitMQ",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with FastAPI and RabbitMQ. In my recent project 'Microservices Architecture Migration for Legacy Rails App', I solved this exact challenge: Decoupled monolithic application into 6 high-speed FastAPI services with RabbitMQ message queue. The result was Reduced API server cloud costs by 52%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-013",
+    "job_title": "Need expert for D3.js project",
+    "skills_referenced": [
+      "D3.js",
+      "React",
+      "TypeScript",
+      "KaTeX"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding D3.js. I have substantial background in D3.js, React, TypeScript, KaTeX, including delivering 'Interactive Data Visualization Suite with D3 and KaTeX'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-014",
+    "job_title": "Need expert for PostgreSQL project",
+    "skills_referenced": [
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "Linux"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding PostgreSQL. I have substantial background in PostgreSQL, Docker, AWS, Linux, including delivering 'Multi-Region Disaster Recovery & Database Replication'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-015",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "React",
+      "TypeScript",
+      "Redis"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding FastAPI. I have substantial background in FastAPI, React, TypeScript, Redis, including delivering 'Internal Developer Portal & API Gateway'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-016",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "PWA",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-017",
+    "job_title": "Need expert for Node.js project",
+    "skills_referenced": [
+      "Node.js",
+      "Puppeteer",
+      "Docker",
+      "AWS S3"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Node.js and Puppeteer. In my recent project 'Automated PDF Invoicing & Reporting Microservice', I solved this exact challenge: Engineered headless Chromium PDF generation service generating 50,000 branded invoices monthly. The result was Generation latency under 400ms per 5-page PDF. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-018",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "Redis",
+      "TypeScript",
+      "React"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding FastAPI. I have substantial background in FastAPI, Redis, TypeScript, React, including delivering 'Cross-Platform Authentication System with Passkeys'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-019",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "PostgreSQL",
+      "Redis",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Next.js and PostgreSQL. In my recent project 'Social Community Platform with Real-Time Feed', I solved this exact challenge: Built Twitter-like microblogging community with Infinite Scroll, mention parsing, and push notifications. The result was Scaled to 100k posts per day effortlessly. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-020",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "FastAPI",
+      "AWS S3",
+      "PostgreSQL"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-021",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "TypeScript",
+      "WebSockets",
+      "Node.js"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-022",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-023",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "Next.js",
+      "GraphQL",
+      "Stripe",
+      "Redis"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with React and Next.js. In my recent project 'Multi-Tenant E-Commerce Headless Storefront', I solved this exact challenge: Architected headless Shopify storefront with Next.js, GraphQL, Redis caching, and Stripe payments. The result was Handled $3M in Black Friday sales without downtime. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-024",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "React",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-025",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "TypeScript",
+      "Zustand",
+      "FastAPI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-026",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "FastAPI",
+      "FFmpeg",
+      "AWS S3"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding React. I have substantial background in React, FastAPI, FFmpeg, AWS S3, including delivering 'Streaming Video & Media Transcription Workspace'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-027",
+    "job_title": "Need expert for Playwright project",
+    "skills_referenced": [
+      "Playwright",
+      "Docker",
+      "GitHub Actions",
+      "TypeScript"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Playwright and Docker. In my recent project 'Automated CI/CD Pipeline & E2E Testing Suite', I solved this exact challenge: Configured GitHub Actions workflow with Playwright parallel execution, Docker containerization, and preview deployments. The result was Achieved 95% E2E test coverage across all critical paths. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-028",
+    "job_title": "Need expert for TypeScript project",
+    "skills_referenced": [
+      "TypeScript",
+      "React",
+      "WebSockets",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with TypeScript and React. In my recent project 'Real-Time Crypto & Stock Trading Interface', I solved this exact challenge: Designed high-frequency trading UI with TradingView charts, WebSockets, and sub-second order placement. The result was Zero dropped frames during extreme volatility surges. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-029",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "TypeScript",
+      "TipTap",
+      "FastAPI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with React and TypeScript. In my recent project 'AI-Powered Rich Text Document Editor', I solved this exact challenge: Constructed TipTap-based editor with collaborative slash commands, markdown export, and streaming AI inline completions. The result was Adopted by 500+ daily content creators. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-030",
+    "job_title": "Need expert for Node.js project",
+    "skills_referenced": [
+      "Node.js",
+      "FastAPI",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Node.js and FastAPI. In my recent project 'Serverless SaaS Billing & Subscription Engine', I solved this exact challenge: Implemented automated recurring billing with Stripe Webhooks, usage metering, and automated invoicing. The result was Recovered $18,000/month in previously failed renewals. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-031",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "PostgreSQL",
+      "WebAuthn",
+      "Docker"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Next.js. I have substantial background in Next.js, PostgreSQL, WebAuthn, Docker, including delivering 'Healthcare Patient Portal with HIPAA Compliance'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-032",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "RabbitMQ",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-033",
+    "job_title": "Need expert for D3.js project",
+    "skills_referenced": [
+      "D3.js",
+      "React",
+      "TypeScript",
+      "KaTeX"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding D3.js. I have substantial background in D3.js, React, TypeScript, KaTeX, including delivering 'Interactive Data Visualization Suite with D3 and KaTeX'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-034",
+    "job_title": "Need expert for PostgreSQL project",
+    "skills_referenced": [
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "Linux"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with PostgreSQL and Docker. In my recent project 'Multi-Region Disaster Recovery & Database Replication', I solved this exact challenge: Configured active-passive PostgreSQL cluster with automated failover and pgvector extensions. The result was Zero data loss during planned migration testing. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-035",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "React",
+      "TypeScript",
+      "Redis"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding FastAPI. I have substantial background in FastAPI, React, TypeScript, Redis, including delivering 'Internal Developer Portal & API Gateway'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-036",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "PWA",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with React and PWA. In my recent project 'Inventory & Warehouse Barcode Scanner PWA', I solved this exact challenge: Developed mobile-first Progressive Web App with camera barcode scanning and IndexedDB offline persistence. The result was Implemented in 15 distribution centers. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-037",
+    "job_title": "Need expert for Node.js project",
+    "skills_referenced": [
+      "Node.js",
+      "Puppeteer",
+      "Docker",
+      "AWS S3"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-038",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "Redis",
+      "TypeScript",
+      "React"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with FastAPI and Redis. In my recent project 'Cross-Platform Authentication System with Passkeys', I solved this exact challenge: Designed passwordless authentication with WebAuthn, SMS OTP fallback, and JWT session rotation. The result was Reduced login abandonment rate by 41%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-039",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "PostgreSQL",
+      "Redis",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Next.js. I have substantial background in Next.js, PostgreSQL, Redis, TailwindCSS, including delivering 'Social Community Platform with Real-Time Feed'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-040",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "FastAPI",
+      "AWS S3",
+      "PostgreSQL"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with React and FastAPI. In my recent project 'Self-Hosted Cloud Storage & File Sharing App', I solved this exact challenge: Architected Dropbox alternative with chunked resumable S3 uploads, presigned URLs, and link expiration. The result was Saved enterprise client $8,000/month in cloud storage fees. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-041",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "TypeScript",
+      "WebSockets",
+      "Node.js"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-042",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Next.js and TypeScript. In my recent project 'High-Performance B2B FinTech Analytics Dashboard', I solved this exact challenge: Built modular Next.js 14 dashboard with server components, TanStack Query, and PostgreSQL handling millions of data points. The result was Page load time decreased from 4.8s to 0.7s. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-043",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "Next.js",
+      "GraphQL",
+      "Stripe",
+      "Redis"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-044",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "React",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding FastAPI. I have substantial background in FastAPI, React, PostgreSQL, Docker, including delivering 'Role-Based RBAC Admin Portal with Audit Logging'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-045",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "TypeScript",
+      "Zustand",
+      "FastAPI"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding React. I have substantial background in React, TypeScript, Zustand, FastAPI, including delivering 'Kanban Task Management Application with Drag & Drop'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-046",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "FastAPI",
+      "FFmpeg",
+      "AWS S3"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding React. I have substantial background in React, FastAPI, FFmpeg, AWS S3, including delivering 'Streaming Video & Media Transcription Workspace'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-047",
+    "job_title": "Need expert for Playwright project",
+    "skills_referenced": [
+      "Playwright",
+      "Docker",
+      "GitHub Actions",
+      "TypeScript"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Playwright and Docker. In my recent project 'Automated CI/CD Pipeline & E2E Testing Suite', I solved this exact challenge: Configured GitHub Actions workflow with Playwright parallel execution, Docker containerization, and preview deployments. The result was Achieved 95% E2E test coverage across all critical paths. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-048",
+    "job_title": "Need expert for TypeScript project",
+    "skills_referenced": [
+      "TypeScript",
+      "React",
+      "WebSockets",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with TypeScript and React. In my recent project 'Real-Time Crypto & Stock Trading Interface', I solved this exact challenge: Designed high-frequency trading UI with TradingView charts, WebSockets, and sub-second order placement. The result was Zero dropped frames during extreme volatility surges. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-049",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "TypeScript",
+      "TipTap",
+      "FastAPI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with React and TypeScript. In my recent project 'AI-Powered Rich Text Document Editor', I solved this exact challenge: Constructed TipTap-based editor with collaborative slash commands, markdown export, and streaming AI inline completions. The result was Adopted by 500+ daily content creators. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-050",
+    "job_title": "Need expert for Node.js project",
+    "skills_referenced": [
+      "Node.js",
+      "FastAPI",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Node.js and FastAPI. In my recent project 'Serverless SaaS Billing & Subscription Engine', I solved this exact challenge: Implemented automated recurring billing with Stripe Webhooks, usage metering, and automated invoicing. The result was Recovered $18,000/month in previously failed renewals. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-051",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "PostgreSQL",
+      "WebAuthn",
+      "Docker"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Next.js and PostgreSQL. In my recent project 'Healthcare Patient Portal with HIPAA Compliance', I solved this exact challenge: Built encrypted patient communication app with end-to-end audit logs, biometric WebAuthn, and telehealth appointments. The result was Full HIPAA compliance certification achieved. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-052",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "RabbitMQ",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-053",
+    "job_title": "Need expert for D3.js project",
+    "skills_referenced": [
+      "D3.js",
+      "React",
+      "TypeScript",
+      "KaTeX"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding D3.js. I have substantial background in D3.js, React, TypeScript, KaTeX, including delivering 'Interactive Data Visualization Suite with D3 and KaTeX'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-054",
+    "job_title": "Need expert for PostgreSQL project",
+    "skills_referenced": [
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "Linux"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-055",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "React",
+      "TypeScript",
+      "Redis"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding FastAPI. I have substantial background in FastAPI, React, TypeScript, Redis, including delivering 'Internal Developer Portal & API Gateway'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-056",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "PWA",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding React. I have substantial background in React, PWA, TypeScript, TailwindCSS, including delivering 'Inventory & Warehouse Barcode Scanner PWA'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-057",
+    "job_title": "Need expert for Node.js project",
+    "skills_referenced": [
+      "Node.js",
+      "Puppeteer",
+      "Docker",
+      "AWS S3"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-058",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "Redis",
+      "TypeScript",
+      "React"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-059",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "PostgreSQL",
+      "Redis",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Next.js. I have substantial background in Next.js, PostgreSQL, Redis, TailwindCSS, including delivering 'Social Community Platform with Real-Time Feed'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-060",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "FastAPI",
+      "AWS S3",
+      "PostgreSQL"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-061",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "TypeScript",
+      "WebSockets",
+      "Node.js"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Next.js. I have substantial background in Next.js, TypeScript, WebSockets, Node.js, including delivering 'Real-Time Collaborative Canvas Platform'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-062",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Next.js and TypeScript. In my recent project 'High-Performance B2B FinTech Analytics Dashboard', I solved this exact challenge: Built modular Next.js 14 dashboard with server components, TanStack Query, and PostgreSQL handling millions of data points. The result was Page load time decreased from 4.8s to 0.7s. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-063",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "Next.js",
+      "GraphQL",
+      "Stripe",
+      "Redis"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with React and Next.js. In my recent project 'Multi-Tenant E-Commerce Headless Storefront', I solved this exact challenge: Architected headless Shopify storefront with Next.js, GraphQL, Redis caching, and Stripe payments. The result was Handled $3M in Black Friday sales without downtime. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-064",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "React",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-065",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "TypeScript",
+      "Zustand",
+      "FastAPI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with React and TypeScript. In my recent project 'Kanban Task Management Application with Drag & Drop', I solved this exact challenge: Created interactive project management suite with dnd-kit, optimistic UI updates, and offline sync. The result was 40k active monthly users with 4.9 app rating. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-066",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "FastAPI",
+      "FFmpeg",
+      "AWS S3"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding React. I have substantial background in React, FastAPI, FFmpeg, AWS S3, including delivering 'Streaming Video & Media Transcription Workspace'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-067",
+    "job_title": "Need expert for Playwright project",
+    "skills_referenced": [
+      "Playwright",
+      "Docker",
+      "GitHub Actions",
+      "TypeScript"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Playwright. I have substantial background in Playwright, Docker, GitHub Actions, TypeScript, including delivering 'Automated CI/CD Pipeline & E2E Testing Suite'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-068",
+    "job_title": "Need expert for TypeScript project",
+    "skills_referenced": [
+      "TypeScript",
+      "React",
+      "WebSockets",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with TypeScript and React. In my recent project 'Real-Time Crypto & Stock Trading Interface', I solved this exact challenge: Designed high-frequency trading UI with TradingView charts, WebSockets, and sub-second order placement. The result was Zero dropped frames during extreme volatility surges. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-069",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "TypeScript",
+      "TipTap",
+      "FastAPI"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding React. I have substantial background in React, TypeScript, TipTap, FastAPI, including delivering 'AI-Powered Rich Text Document Editor'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-070",
+    "job_title": "Need expert for Node.js project",
+    "skills_referenced": [
+      "Node.js",
+      "FastAPI",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Node.js. I have substantial background in Node.js, FastAPI, PostgreSQL, Stripe, including delivering 'Serverless SaaS Billing & Subscription Engine'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-071",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "PostgreSQL",
+      "WebAuthn",
+      "Docker"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Next.js. I have substantial background in Next.js, PostgreSQL, WebAuthn, Docker, including delivering 'Healthcare Patient Portal with HIPAA Compliance'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-072",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "RabbitMQ",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-073",
+    "job_title": "Need expert for D3.js project",
+    "skills_referenced": [
+      "D3.js",
+      "React",
+      "TypeScript",
+      "KaTeX"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding D3.js. I have substantial background in D3.js, React, TypeScript, KaTeX, including delivering 'Interactive Data Visualization Suite with D3 and KaTeX'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-074",
+    "job_title": "Need expert for PostgreSQL project",
+    "skills_referenced": [
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "Linux"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with PostgreSQL and Docker. In my recent project 'Multi-Region Disaster Recovery & Database Replication', I solved this exact challenge: Configured active-passive PostgreSQL cluster with automated failover and pgvector extensions. The result was Zero data loss during planned migration testing. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-075",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "React",
+      "TypeScript",
+      "Redis"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding FastAPI. I have substantial background in FastAPI, React, TypeScript, Redis, including delivering 'Internal Developer Portal & API Gateway'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-076",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "PWA",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-077",
+    "job_title": "Need expert for Node.js project",
+    "skills_referenced": [
+      "Node.js",
+      "Puppeteer",
+      "Docker",
+      "AWS S3"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Node.js. I have substantial background in Node.js, Puppeteer, Docker, AWS S3, including delivering 'Automated PDF Invoicing & Reporting Microservice'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-078",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "Redis",
+      "TypeScript",
+      "React"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding FastAPI. I have substantial background in FastAPI, Redis, TypeScript, React, including delivering 'Cross-Platform Authentication System with Passkeys'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-079",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "PostgreSQL",
+      "Redis",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Next.js. I have substantial background in Next.js, PostgreSQL, Redis, TailwindCSS, including delivering 'Social Community Platform with Real-Time Feed'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-080",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "FastAPI",
+      "AWS S3",
+      "PostgreSQL"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with React and FastAPI. In my recent project 'Self-Hosted Cloud Storage & File Sharing App', I solved this exact challenge: Architected Dropbox alternative with chunked resumable S3 uploads, presigned URLs, and link expiration. The result was Saved enterprise client $8,000/month in cloud storage fees. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-081",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "TypeScript",
+      "WebSockets",
+      "Node.js"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-082",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Next.js and TypeScript. In my recent project 'High-Performance B2B FinTech Analytics Dashboard', I solved this exact challenge: Built modular Next.js 14 dashboard with server components, TanStack Query, and PostgreSQL handling millions of data points. The result was Page load time decreased from 4.8s to 0.7s. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-083",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "Next.js",
+      "GraphQL",
+      "Stripe",
+      "Redis"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-084",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "React",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-085",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "TypeScript",
+      "Zustand",
+      "FastAPI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-086",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "FastAPI",
+      "FFmpeg",
+      "AWS S3"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with React and FastAPI. In my recent project 'Streaming Video & Media Transcription Workspace', I solved this exact challenge: Integrated chunked video upload, HLS streaming, and Whisper subtitle generation in a responsive React web app. The result was Cut video processing and captioning turnaround by 75%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-087",
+    "job_title": "Need expert for Playwright project",
+    "skills_referenced": [
+      "Playwright",
+      "Docker",
+      "GitHub Actions",
+      "TypeScript"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Playwright. I have substantial background in Playwright, Docker, GitHub Actions, TypeScript, including delivering 'Automated CI/CD Pipeline & E2E Testing Suite'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-088",
+    "job_title": "Need expert for TypeScript project",
+    "skills_referenced": [
+      "TypeScript",
+      "React",
+      "WebSockets",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-089",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "TypeScript",
+      "TipTap",
+      "FastAPI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with React and TypeScript. In my recent project 'AI-Powered Rich Text Document Editor', I solved this exact challenge: Constructed TipTap-based editor with collaborative slash commands, markdown export, and streaming AI inline completions. The result was Adopted by 500+ daily content creators. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-090",
+    "job_title": "Need expert for Node.js project",
+    "skills_referenced": [
+      "Node.js",
+      "FastAPI",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Node.js and FastAPI. In my recent project 'Serverless SaaS Billing & Subscription Engine', I solved this exact challenge: Implemented automated recurring billing with Stripe Webhooks, usage metering, and automated invoicing. The result was Recovered $18,000/month in previously failed renewals. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-091",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "PostgreSQL",
+      "WebAuthn",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-092",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "RabbitMQ",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding FastAPI. I have substantial background in FastAPI, RabbitMQ, PostgreSQL, Docker, including delivering 'Microservices Architecture Migration for Legacy Rails App'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-093",
+    "job_title": "Need expert for D3.js project",
+    "skills_referenced": [
+      "D3.js",
+      "React",
+      "TypeScript",
+      "KaTeX"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with D3.js and React. In my recent project 'Interactive Data Visualization Suite with D3 and KaTeX', I solved this exact challenge: Created interactive scientific charting tools with D3.js and KaTeX equation formatting for education portal. The result was Boosted student engagement metrics by 35%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-094",
+    "job_title": "Need expert for PostgreSQL project",
+    "skills_referenced": [
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "Linux"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding PostgreSQL. I have substantial background in PostgreSQL, Docker, AWS, Linux, including delivering 'Multi-Region Disaster Recovery & Database Replication'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-095",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "React",
+      "TypeScript",
+      "Redis"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with FastAPI and React. In my recent project 'Internal Developer Portal & API Gateway', I solved this exact challenge: Built centralized Swagger / OpenAPI documentation hub with interactive playground and rate-limiting enforcement. The result was Sped up partner onboarding from 2 weeks to 2 hours. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-096",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "PWA",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding React. I have substantial background in React, PWA, TypeScript, TailwindCSS, including delivering 'Inventory & Warehouse Barcode Scanner PWA'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-097",
+    "job_title": "Need expert for Node.js project",
+    "skills_referenced": [
+      "Node.js",
+      "Puppeteer",
+      "Docker",
+      "AWS S3"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-098",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "Redis",
+      "TypeScript",
+      "React"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding FastAPI. I have substantial background in FastAPI, Redis, TypeScript, React, including delivering 'Cross-Platform Authentication System with Passkeys'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-099",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "PostgreSQL",
+      "Redis",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Next.js and PostgreSQL. In my recent project 'Social Community Platform with Real-Time Feed', I solved this exact challenge: Built Twitter-like microblogging community with Infinite Scroll, mention parsing, and push notifications. The result was Scaled to 100k posts per day effortlessly. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-100",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "FastAPI",
+      "AWS S3",
+      "PostgreSQL"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with React and FastAPI. In my recent project 'Self-Hosted Cloud Storage & File Sharing App', I solved this exact challenge: Architected Dropbox alternative with chunked resumable S3 uploads, presigned URLs, and link expiration. The result was Saved enterprise client $8,000/month in cloud storage fees. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-101",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "TypeScript",
+      "WebSockets",
+      "Node.js"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Next.js. I have substantial background in Next.js, TypeScript, WebSockets, Node.js, including delivering 'Real-Time Collaborative Canvas Platform'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-102",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Next.js and TypeScript. In my recent project 'High-Performance B2B FinTech Analytics Dashboard', I solved this exact challenge: Built modular Next.js 14 dashboard with server components, TanStack Query, and PostgreSQL handling millions of data points. The result was Page load time decreased from 4.8s to 0.7s. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-103",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "Next.js",
+      "GraphQL",
+      "Stripe",
+      "Redis"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with React and Next.js. In my recent project 'Multi-Tenant E-Commerce Headless Storefront', I solved this exact challenge: Architected headless Shopify storefront with Next.js, GraphQL, Redis caching, and Stripe payments. The result was Handled $3M in Black Friday sales without downtime. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-104",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "React",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding FastAPI. I have substantial background in FastAPI, React, PostgreSQL, Docker, including delivering 'Role-Based RBAC Admin Portal with Audit Logging'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-105",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "TypeScript",
+      "Zustand",
+      "FastAPI"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding React. I have substantial background in React, TypeScript, Zustand, FastAPI, including delivering 'Kanban Task Management Application with Drag & Drop'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-106",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "FastAPI",
+      "FFmpeg",
+      "AWS S3"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with React and FastAPI. In my recent project 'Streaming Video & Media Transcription Workspace', I solved this exact challenge: Integrated chunked video upload, HLS streaming, and Whisper subtitle generation in a responsive React web app. The result was Cut video processing and captioning turnaround by 75%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-107",
+    "job_title": "Need expert for Playwright project",
+    "skills_referenced": [
+      "Playwright",
+      "Docker",
+      "GitHub Actions",
+      "TypeScript"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Playwright and Docker. In my recent project 'Automated CI/CD Pipeline & E2E Testing Suite', I solved this exact challenge: Configured GitHub Actions workflow with Playwright parallel execution, Docker containerization, and preview deployments. The result was Achieved 95% E2E test coverage across all critical paths. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-108",
+    "job_title": "Need expert for TypeScript project",
+    "skills_referenced": [
+      "TypeScript",
+      "React",
+      "WebSockets",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding TypeScript. I have substantial background in TypeScript, React, WebSockets, TailwindCSS, including delivering 'Real-Time Crypto & Stock Trading Interface'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-109",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "TypeScript",
+      "TipTap",
+      "FastAPI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-110",
+    "job_title": "Need expert for Node.js project",
+    "skills_referenced": [
+      "Node.js",
+      "FastAPI",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Node.js. I have substantial background in Node.js, FastAPI, PostgreSQL, Stripe, including delivering 'Serverless SaaS Billing & Subscription Engine'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-111",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "PostgreSQL",
+      "WebAuthn",
+      "Docker"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Next.js and PostgreSQL. In my recent project 'Healthcare Patient Portal with HIPAA Compliance', I solved this exact challenge: Built encrypted patient communication app with end-to-end audit logs, biometric WebAuthn, and telehealth appointments. The result was Full HIPAA compliance certification achieved. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-112",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "RabbitMQ",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-113",
+    "job_title": "Need expert for D3.js project",
+    "skills_referenced": [
+      "D3.js",
+      "React",
+      "TypeScript",
+      "KaTeX"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding D3.js. I have substantial background in D3.js, React, TypeScript, KaTeX, including delivering 'Interactive Data Visualization Suite with D3 and KaTeX'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-114",
+    "job_title": "Need expert for PostgreSQL project",
+    "skills_referenced": [
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "Linux"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with PostgreSQL and Docker. In my recent project 'Multi-Region Disaster Recovery & Database Replication', I solved this exact challenge: Configured active-passive PostgreSQL cluster with automated failover and pgvector extensions. The result was Zero data loss during planned migration testing. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-115",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "React",
+      "TypeScript",
+      "Redis"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with FastAPI and React. In my recent project 'Internal Developer Portal & API Gateway', I solved this exact challenge: Built centralized Swagger / OpenAPI documentation hub with interactive playground and rate-limiting enforcement. The result was Sped up partner onboarding from 2 weeks to 2 hours. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-116",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "PWA",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-117",
+    "job_title": "Need expert for Node.js project",
+    "skills_referenced": [
+      "Node.js",
+      "Puppeteer",
+      "Docker",
+      "AWS S3"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Node.js and Puppeteer. In my recent project 'Automated PDF Invoicing & Reporting Microservice', I solved this exact challenge: Engineered headless Chromium PDF generation service generating 50,000 branded invoices monthly. The result was Generation latency under 400ms per 5-page PDF. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-118",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "Redis",
+      "TypeScript",
+      "React"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding FastAPI. I have substantial background in FastAPI, Redis, TypeScript, React, including delivering 'Cross-Platform Authentication System with Passkeys'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-119",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "PostgreSQL",
+      "Redis",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Next.js. I have substantial background in Next.js, PostgreSQL, Redis, TailwindCSS, including delivering 'Social Community Platform with Real-Time Feed'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-120",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "FastAPI",
+      "AWS S3",
+      "PostgreSQL"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-121",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "TypeScript",
+      "WebSockets",
+      "Node.js"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-122",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Next.js and TypeScript. In my recent project 'High-Performance B2B FinTech Analytics Dashboard', I solved this exact challenge: Built modular Next.js 14 dashboard with server components, TanStack Query, and PostgreSQL handling millions of data points. The result was Page load time decreased from 4.8s to 0.7s. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-123",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "Next.js",
+      "GraphQL",
+      "Stripe",
+      "Redis"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-124",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "React",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-125",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "TypeScript",
+      "Zustand",
+      "FastAPI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-126",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "FastAPI",
+      "FFmpeg",
+      "AWS S3"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with React and FastAPI. In my recent project 'Streaming Video & Media Transcription Workspace', I solved this exact challenge: Integrated chunked video upload, HLS streaming, and Whisper subtitle generation in a responsive React web app. The result was Cut video processing and captioning turnaround by 75%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-127",
+    "job_title": "Need expert for Playwright project",
+    "skills_referenced": [
+      "Playwright",
+      "Docker",
+      "GitHub Actions",
+      "TypeScript"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Playwright. I have substantial background in Playwright, Docker, GitHub Actions, TypeScript, including delivering 'Automated CI/CD Pipeline & E2E Testing Suite'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-128",
+    "job_title": "Need expert for TypeScript project",
+    "skills_referenced": [
+      "TypeScript",
+      "React",
+      "WebSockets",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-129",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "TypeScript",
+      "TipTap",
+      "FastAPI"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with React and TypeScript. In my recent project 'AI-Powered Rich Text Document Editor', I solved this exact challenge: Constructed TipTap-based editor with collaborative slash commands, markdown export, and streaming AI inline completions. The result was Adopted by 500+ daily content creators. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-130",
+    "job_title": "Need expert for Node.js project",
+    "skills_referenced": [
+      "Node.js",
+      "FastAPI",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Node.js and FastAPI. In my recent project 'Serverless SaaS Billing & Subscription Engine', I solved this exact challenge: Implemented automated recurring billing with Stripe Webhooks, usage metering, and automated invoicing. The result was Recovered $18,000/month in previously failed renewals. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-011"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-131",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "PostgreSQL",
+      "WebAuthn",
+      "Docker"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Next.js and PostgreSQL. In my recent project 'Healthcare Patient Portal with HIPAA Compliance', I solved this exact challenge: Built encrypted patient communication app with end-to-end audit logs, biometric WebAuthn, and telehealth appointments. The result was Full HIPAA compliance certification achieved. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-012"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-132",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "RabbitMQ",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-013"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-133",
+    "job_title": "Need expert for D3.js project",
+    "skills_referenced": [
+      "D3.js",
+      "React",
+      "TypeScript",
+      "KaTeX"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-014"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-134",
+    "job_title": "Need expert for PostgreSQL project",
+    "skills_referenced": [
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "Linux"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-015"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-135",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "React",
+      "TypeScript",
+      "Redis"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding FastAPI. I have substantial background in FastAPI, React, TypeScript, Redis, including delivering 'Internal Developer Portal & API Gateway'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-016"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-136",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "PWA",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-017"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-137",
+    "job_title": "Need expert for Node.js project",
+    "skills_referenced": [
+      "Node.js",
+      "Puppeteer",
+      "Docker",
+      "AWS S3"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-018"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-138",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "Redis",
+      "TypeScript",
+      "React"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with FastAPI and Redis. In my recent project 'Cross-Platform Authentication System with Passkeys', I solved this exact challenge: Designed passwordless authentication with WebAuthn, SMS OTP fallback, and JWT session rotation. The result was Reduced login abandonment rate by 41%. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-019"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-139",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "PostgreSQL",
+      "Redis",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with Next.js and PostgreSQL. In my recent project 'Social Community Platform with Real-Time Feed', I solved this exact challenge: Built Twitter-like microblogging community with Infinite Scroll, mention parsing, and push notifications. The result was Scaled to 100k posts per day effortlessly. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-020"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-140",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "FastAPI",
+      "AWS S3",
+      "PostgreSQL"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-001"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-141",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "TypeScript",
+      "WebSockets",
+      "Node.js"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-002"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-142",
+    "job_title": "Need expert for Next.js project",
+    "skills_referenced": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding Next.js. I have substantial background in Next.js, TypeScript, PostgreSQL, TailwindCSS, including delivering 'High-Performance B2B FinTech Analytics Dashboard'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-003"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-143",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "Next.js",
+      "GraphQL",
+      "Stripe",
+      "Redis"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-004"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-144",
+    "job_title": "Need expert for FastAPI project",
+    "skills_referenced": [
+      "FastAPI",
+      "React",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "cover_letter": "Hi there. I saw you need expertise with FastAPI and React. In my recent project 'Role-Based RBAC Admin Portal with Audit Logging', I solved this exact challenge: Developed enterprise management suite featuring fine-grained permission controls, OAuth2 / OIDC, and immutable audit logs. The result was Certified for SOC-2 Type II audit readiness. I can bring this exact architecture to your project. When is a good time to discuss the implementation details?",
+    "outcome": "won",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-005"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-145",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "TypeScript",
+      "Zustand",
+      "FastAPI"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-006"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-146",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "FastAPI",
+      "FFmpeg",
+      "AWS S3"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding React. I have substantial background in React, FastAPI, FFmpeg, AWS S3, including delivering 'Streaming Video & Media Transcription Workspace'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-007"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-147",
+    "job_title": "Need expert for Playwright project",
+    "skills_referenced": [
+      "Playwright",
+      "Docker",
+      "GitHub Actions",
+      "TypeScript"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-008"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-148",
+    "job_title": "Need expert for TypeScript project",
+    "skills_referenced": [
+      "TypeScript",
+      "React",
+      "WebSockets",
+      "TailwindCSS"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding TypeScript. I have substantial background in TypeScript, React, WebSockets, TailwindCSS, including delivering 'Real-Time Crypto & Stock Trading Interface'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-009"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-149",
+    "job_title": "Need expert for React project",
+    "skills_referenced": [
+      "React",
+      "TypeScript",
+      "TipTap",
+      "FastAPI"
+    ],
+    "cover_letter": "Hello. I noticed your posting regarding React. I have substantial background in React, TypeScript, TipTap, FastAPI, including delivering 'AI-Powered Rich Text Document Editor'. I'd love to learn more about your data schema and timeline.",
+    "outcome": "replied",
+    "bid_amount": 1275,
+    "evidence_used": [
+      "case-fu-010"
+    ]
+  },
+  {
+    "proposal_id": "prop-fu-150",
+    "job_title": "Need expert for Node.js project",
+    "skills_referenced": [
+      "Node.js",
+      "FastAPI",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "cover_letter": "Dear Client, I am a highly motivated engineer with years of experience in programming and software development. I have read your job description with interest and I am confident I can do this job perfectly. Please check my profile and let me know.",
+    "outcome": "ignored",
+    "bid_amount": 3400,
+    "evidence_used": [
+      "case-fu-011"
+    ]
+  }
+]
