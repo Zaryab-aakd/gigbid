@@ -1,0 +1,49 @@
+name: GigBid Regression & Eval Gate
+
+on:
+  schedule:
+    - cron: '0 4 * * *' # Nightly run at 04:00 UTC
+  workflow_dispatch:
+
+jobs:
+  evaluate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -e ".[dev]"
+          pip install rank_bm25 scikit-learn
+
+      - name: Run RAG Benchmark Evaluation
+        run: |
+          PYTHONPATH=. python evals/runners/rag_eval.py
+
+      - name: Run Multi-Agent Comparison Evaluation
+        run: |
+          PYTHONPATH=. python evals/runners/multi_agent_comparison_eval.py
+
+      - name: Run Injection Defense Benchmark
+        run: |
+          PYTHONPATH=. python evals/runners/injection_defense_eval.py
+
+      - name: Regression Gate Check
+        run: |
+          PYTHONPATH=. python -c "
+          import json
+          with open('evals/results/rd_question_b_rag_results.json') as f:
+              rag = json.load(f)
+          # Strict gate: best variant (v3_reranker) must have zero unsupported claims and >= 90% recall
+          v3 = rag['v3_reranker']
+          assert v3['unsupported_claims_per_proposal'] == 0.0, 'Gate failed: Unsupported claims detected!'
+          assert v3['evidence_recall_at_5'] >= 90.0, 'Gate failed: Recall@5 below 90%!'
+          print('Regression Eval Gate Passed!')
+          "

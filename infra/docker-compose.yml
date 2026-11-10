@@ -1,0 +1,64 @@
+version: "3.8"
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: infra/docker/Dockerfile.api
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      - MARKETPLACE_MODE=gigsim
+      - GIGSIM_URL=http://gigsim:8001
+      - REDIS_URL=redis://redis:6379/0
+      - DATABASE_URL=postgresql://gigbid:gigbid@postgres:5432/gigbid
+    depends_on:
+      - gigsim
+      - redis
+      - postgres
+    restart: unless-stopped
+
+  gigsim:
+    build:
+      context: .
+      dockerfile: infra/docker/Dockerfile.gigsim
+    ports:
+      - "8001:8001"
+    environment:
+      - PORT=8001
+    restart: unless-stopped
+
+  worker:
+    build:
+      context: .
+      dockerfile: infra/docker/Dockerfile.worker
+    environment:
+      - MARKETPLACE_MODE=gigsim
+      - GIGSIM_URL=http://gigsim:8001
+      - REDIS_URL=redis://redis:6379/0
+    depends_on:
+      - gigsim
+      - redis
+    restart: unless-stopped
+
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      - POSTGRES_USER=gigbid
+      - POSTGRES_PASSWORD=gigbid
+      - POSTGRES_DB=gigbid
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    restart: unless-stopped
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    restart: unless-stopped
+
+volumes:
+  pgdata:
