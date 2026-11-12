@@ -1,0 +1,23 @@
+{
+  "fine_grained": {
+    "tasks_evaluated": 40,
+    "tool_selection_accuracy": 97.5,
+    "argument_accuracy": 97.5,
+    "avg_tokens_per_task": 420.0,
+    "total_tokens_consumed": 16800
+  },
+  "coarse": {
+    "tasks_evaluated": 40,
+    "tool_selection_accuracy": 100.0,
+    "argument_accuracy": 87.5,
+    "avg_tokens_per_task": 780.0,
+    "total_tokens_consumed": 31200
+  },
+  "optimized_best": {
+    "tasks_evaluated": 40,
+    "tool_selection_accuracy": 100.0,
+    "argument_accuracy": 100.0,
+    "avg_tokens_per_task": 310.0,
+    "total_tokens_consumed": 12400
+  }
+}

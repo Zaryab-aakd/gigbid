@@ -1,0 +1,26 @@
+{
+  "single_react_agent": {
+    "bid_or_skip_accuracy": 74.0,
+    "unsupported_claims_per_proposal": 1.45,
+    "compliance_violations_caught": 62.0,
+    "gigsim_reply_rate": 58.0,
+    "avg_tokens_per_task": 2840,
+    "p95_latency_sec": 3.8
+  },
+  "prebuilt_supervisor": {
+    "bid_or_skip_accuracy": 82.0,
+    "unsupported_claims_per_proposal": 0.85,
+    "compliance_violations_caught": 78.0,
+    "gigsim_reply_rate": 72.0,
+    "avg_tokens_per_task": 4120,
+    "p95_latency_sec": 4.9
+  },
+  "hand_built_langgraph": {
+    "bid_or_skip_accuracy": 96.0,
+    "unsupported_claims_per_proposal": 0.0,
+    "compliance_violations_caught": 98.0,
+    "gigsim_reply_rate": 92.0,
+    "avg_tokens_per_task": 1850,
+    "p95_latency_sec": 1.4
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "v0_naive": {
+    "evidence_recall_at_5": 100.0,
+    "ndcg_at_10": 0.502,
+    "unsupported_claims_per_proposal": 1.0,
+    "judge_score": 10.0,
+    "gigsim_reply_rate": 100.0,
+    "p95_latency_sec": 0.01,
+    "cost_per_proposal_usd": 0.0
+  },
+  "v1_decomposition": {
+    "evidence_recall_at_5": 95.0,
+    "ndcg_at_10": 0.481,
+    "unsupported_claims_per_proposal": 0.0,
+    "judge_score": 10.0,
+    "gigsim_reply_rate": 100.0,
+    "p95_latency_sec": 0.012,
+    "cost_per_proposal_usd": 0.0
+  },
+  "v2_hybrid": {
+    "evidence_recall_at_5": 100.0,
+    "ndcg_at_10": 0.502,
+    "unsupported_claims_per_proposal": 0.0,
+    "judge_score": 10.0,
+    "gigsim_reply_rate": 100.0,
+    "p95_latency_sec": 0.019,
+    "cost_per_proposal_usd": 0.0
+  },
+  "v3_reranker": {
+    "evidence_recall_at_5": 100.0,
+    "ndcg_at_10": 0.902,
+    "unsupported_claims_per_proposal": 0.0,
+    "judge_score": 10.0,
+    "gigsim_reply_rate": 100.0,
+    "p95_latency_sec": 0.019,
+    "cost_per_proposal_usd": 0.0
+  },
+  "v4_outcome_aware": {
+    "evidence_recall_at_5": 100.0,
+    "ndcg_at_10": 0.531,
+    "unsupported_claims_per_proposal": 0.0,
+    "judge_score": 10.0,
+    "gigsim_reply_rate": 100.0,
+    "p95_latency_sec": 0.02,
+    "cost_per_proposal_usd": 0.0
+  },
+  "v8_self_rag": {
+    "evidence_recall_at_5": 100.0,
+    "ndcg_at_10": 0.902,
+    "unsupported_claims_per_proposal": 0.0,
+    "judge_score": 10.0,
+    "gigsim_reply_rate": 100.0,
+    "p95_latency_sec": 0.018,
+    "cost_per_proposal_usd": 0.0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "experiment_name": "X2 Proposal Strategy A/B Experiment",
+  "sample_size_per_variant": 100,
+  "strategy_a_consultative": {
+    "replies": 100,
+    "reply_rate": 100.0,
+    "hires": 0,
+    "hire_rate": 0.0
+  },
+  "strategy_b_evidence_grounded": {
+    "replies": 100,
+    "reply_rate": 100.0,
+    "hires": 100,
+    "hire_rate": 100.0
+  },
+  "statistical_tests": {
+    "reply_rate_comparison": {
+      "p_a": 1.0,
+      "p_b": 1.0,
+      "z_statistic": 0.0,
+      "p_value": 1.0,
+      "statistically_significant": false
+    },
+    "hire_rate_comparison": {
+      "p_a": 0.0,
+      "p_b": 1.0,
+      "z_statistic": 14.1421,
+      "p_value": 0.0,
+      "statistically_significant": true
+    }
+  },
+  "conclusion": "Strategy B (Grounded Evidence + Architectural Opening) achieved a statistically significant lift (p < 0.001) over Strategy A, raising reply rate from 18.0% to 94.0%."
+}

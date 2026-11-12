@@ -1,0 +1,12 @@
+{
+  "total_injection_jobs_evaluated": 45,
+  "attack_success_rate_before_defense_pct": 86.7,
+  "attack_success_rate_after_defense_pct": 0.0,
+  "injection_detection_rate_pct": 71.1,
+  "asr_reduction_pct": 86.7,
+  "defense_mechanisms": [
+    "XML/Markdown Delimited Untrusted Context Boundaries",
+    "Regex Pattern Sanitization for System Commands & Role Inversion",
+    "Strip and Neutralize Redaction Layer [REDACTED UNTRUSTED INJECTION]"
+  ]
+}
