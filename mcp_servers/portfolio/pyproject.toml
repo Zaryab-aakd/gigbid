@@ -1,0 +1,23 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "gigbid-portfolio-mcp"
+version = "0.1.0"
+description = "FastMCP server serving verified freelancer portfolio evidence, case studies, and past proposals"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+    { name = "Muhammad Moeez", email = "student@nu.edu.pk" }
+]
+dependencies = [
+    "mcp>=1.0.0",
+    "pydantic>=2.0.0"
+]
+
+[project.scripts]
+gigbid-portfolio-mcp = "mcp_servers.portfolio.server:mcp.run"
+
+[tool.hatch.build.targets.wheel]
+packages = ["mcp_servers"]

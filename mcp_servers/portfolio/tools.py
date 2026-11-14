@@ -3,8 +3,18 @@ import os
 import glob
 from typing import List, Dict, Any, Optional
 
+def get_data_dir() -> str:
+    if os.environ.get("GIGBID_DATA_DIR"):
+        return os.environ["GIGBID_DATA_DIR"]
+    if os.path.exists("data/personas"):
+        return "data"
+    base = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+    if os.path.exists(os.path.join(base, "data", "personas")):
+        return os.path.join(base, "data")
+    return "data"
+
 def load_persona_portfolio(persona_id: str = "ai_ml_engineer") -> List[Dict[str, Any]]:
-    path = f"data/personas/{persona_id}/portfolio_items.json"
+    path = os.path.join(get_data_dir(), "personas", persona_id, "portfolio_items.json")
     if os.path.exists(path):
         with open(path) as f:
             return json.load(f)
@@ -43,10 +53,11 @@ def get_case_study(case_id: str, persona_id: str = "ai_ml_engineer") -> Optional
     """
     Load the full markdown text of a specific verified case study.
     """
+    data_dir = get_data_dir()
     # Search in persona directories
     patterns = [
-        f"data/personas/{persona_id}/case_studies/*{case_id}*.md",
-        f"data/personas/*/case_studies/*{case_id}*.md"
+        os.path.join(data_dir, "personas", persona_id, "case_studies", f"*{case_id}*.md"),
+        os.path.join(data_dir, "personas", "*", "case_studies", f"*{case_id}*.md")
     ]
     for pattern in patterns:
         matches = glob.glob(pattern)
@@ -72,3 +83,4 @@ def list_skills(persona_id: str = "ai_ml_engineer") -> List[str]:
         for s in item.get("skills", []):
             skills.add(s)
     return sorted(list(skills))
+
