@@ -1,13 +1,19 @@
 # GigBid — Multi-Agent Freelancer Copilot
 
-[![GigBid CI](https://github.com/moeezakd/gigbid/actions/workflows/ci.yml/badge.svg)](https://github.com/moeezakd/gigbid/actions/workflows/ci.yml)
-[![Eval Gate](https://github.com/moeezakd/gigbid/actions/workflows/eval.yml/badge.svg)](https://github.com/moeezakd/gigbid/actions/workflows/eval.yml)
+[![Live Demo](https://img.shields.io/badge/Live%20Deployment-Render%20Online-success.svg)](https://gigbid-v4bt.onrender.com/)
+[![GigBid CI](https://github.com/Zaryab-aakd/gigbid/actions/workflows/ci.yml/badge.svg)](https://github.com/Zaryab-aakd/gigbid/actions/workflows/ci.yml)
+[![Eval Gate](https://github.com/Zaryab-aakd/gigbid/actions/workflows/eval.yml/badge.svg)](https://github.com/Zaryab-aakd/gigbid/actions/workflows/eval.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![LangGraph](https://img.shields.io/badge/Orchestration-LangGraph%20v0.2+-orange.svg)](https://langchain-ai.github.io/langgraph/)
 [![MCP](https://img.shields.io/badge/Tool%20Protocol-MCP%20v1.0-emerald.svg)](https://modelcontextprotocol.io/)
 
-> **AI-4016 R&D Assignment 2** — An enterprise-grade, evidence-grounded multi-agent freelancer copilot built with **LangGraph**, **Model Context Protocol (MCP)**, **Advanced RAG (Hybrid BM25 + Dense RRF + Reranking)**, and a full-stack **FastAPI + React** web application.
+> **AI-4016 R&D Assignment 2** — An enterprise-grade, evidence-grounded multi-agent freelancer copilot built with **LangGraph**, **Model Context Protocol (FastMCP)**, **Advanced RAG (Hybrid BM25 + Dense RRF + Reranking)**, and a full-stack **FastAPI + React** web application.
+>
+> **Author:** Zaryab Durrani (Roll No: `22i-1212`, `i221212@nu.edu.pk`)  
+> **Live Deployed Application:** [https://gigbid-v4bt.onrender.com/](https://gigbid-v4bt.onrender.com/)  
+> **Public GitHub Repository:** [https://github.com/Zaryab-aakd/gigbid](https://github.com/Zaryab-aakd/gigbid)
+
 
 ---
 
@@ -136,7 +142,7 @@ Every metric presented below is reproducible via `make eval` and cites committed
 ### Installation & Execution
 ```bash
 # 1. Clone repository
-git clone https://github.com/moeezakd/gigbid.git
+git clone https://github.com/Zaryab-aakd/gigbid.git
 cd gigbid
 
 # 2. Setup environment
