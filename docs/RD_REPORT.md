@@ -1,6 +1,6 @@
 # AI-4016 R&D Report: GigBid — Multi-Agent Freelancer Copilot
 
-**Author:** Dr. Alex Rivera / Muhammad Moeez  
+**Author:** Zaryab Durrani (Roll No: 22i-1212)  
 **Institution:** FAST School of Computing, FAST-NUCES Islamabad  
 **Course:** AI-4016 (LangGraph Multi-Agent Systems · Advanced RAG · MCP · Full-Stack Web App)  
 **System Version:** v1.0.0 (Production Release)  

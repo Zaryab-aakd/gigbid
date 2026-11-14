@@ -9,7 +9,7 @@ description = "FastMCP server serving verified freelancer portfolio evidence, ca
 readme = "README.md"
 requires-python = ">=3.11"
 authors = [
-    { name = "Muhammad Moeez", email = "student@nu.edu.pk" }
+    { name = "Zaryab Durrani", email = "i221212@isb.nu.edu.pk" }
 ]
 dependencies = [
     "mcp>=1.0.0",

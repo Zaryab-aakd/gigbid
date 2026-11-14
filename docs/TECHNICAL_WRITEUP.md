@@ -1,6 +1,6 @@
 # The Opening Paradox: Why Being Polite Costs Freelancers Clients (And How Cross-Encoder RAG Fixes It)
 
-*By Muhammad Moeez · AI-4016 R&D Study on Agentic Copilots*
+*By Zaryab Durrani (Roll No: 22i-1212) · AI-4016 R&D Study on Agentic Copilots*
 
 ---
 
