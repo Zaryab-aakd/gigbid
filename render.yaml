@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: gigbid-copilot
+    env: docker
+    dockerfilePath: ./infra/docker/Dockerfile.api
+    plan: free
+    region: oregon
+    branch: main
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: PYTHONPATH
+        value: .
+      - key: MARKETPLACE_MODE
+        value: gigsim
+      - key: GIGBID_ENV
+        value: production
+      - key: GIGBID_PERSONA
+        value: ai_ml_engineer
