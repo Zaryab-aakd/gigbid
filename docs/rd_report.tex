@@ -6,6 +6,7 @@
 \usepackage{lmodern}
 \usepackage{booktabs}
 \usepackage{tabularx}
+\usepackage{url}
 \usepackage{hyperref}
 \usepackage{graphicx}
 \usepackage{xcolor}
@@ -13,6 +14,8 @@
 \usepackage{fancyhdr}
 \usepackage{titlesec}
 \usepackage{microtype}
+
+\def\UrlBreaks{\do\/\do-\do\_}
 
 \hypersetup{
     colorlinks=true,
@@ -32,13 +35,13 @@
 \large Production MCP Architecture, Calibrated Advanced RAG, and LangGraph Human-in-the-Loop Orchestration}
 
 \author{
-    \textbf{Zaryab Durrani} (Roll No: \texttt{22i-1212}) \\
-    \small FAST School of Computing, FAST-NUCES Islamabad \\
-    \small \texttt{i221212@nu.edu.pk} \\
-    \small Codebase: \url{https://github.com/Zaryab-aakd/gigbid} \\
-    \small Live Application: \url{https://gigbid-v4bt.onrender.com} \\
-    \small Demo Video: \url{https://drive.google.com/file/d/1OO48Nlfl6e-MOjTchK59lZ0aGUlfXB6f/view?usp=drive_link} \\
-    \small Technical Write-Up: \url{https://medium.com/@i221212/the-opening-paradox-why-being-polite-costs-freelancers-clients-and-how-cross-encoder-rag-fixes-46ae61f4e004}
+    \textbf{Zaryab Durrani} \quad (Roll No: \texttt{22i-1212}) \\
+    \small FAST School of Computing, National University of Computer and Emerging Sciences, Islamabad \\
+    \small Email: \texttt{i221212@nu.edu.pk} \\[3pt]
+    \footnotesize \textbf{Codebase:} \href{https://github.com/Zaryab-aakd/gigbid}{\texttt{github.com/Zaryab-aakd/gigbid}} \quad$\bullet$\quad
+    \textbf{Live Application:} \href{https://gigbid-v4bt.onrender.com}{\texttt{gigbid-v4bt.onrender.com}} \\
+    \footnotesize \textbf{Demo Video (3-Min):} \href{https://drive.google.com/file/d/1OO48Nlfl6e-MOjTchK59lZ0aGUlfXB6f/view?usp=drive_link}{\texttt{Google Drive Link}} \quad$\bullet$\quad
+    \textbf{Technical Write-Up:} \href{https://medium.com/@i221212/the-opening-paradox-why-being-polite-costs-freelancers-clients-and-how-cross-encoder-rag-fixes-46ae61f4e004}{\texttt{Medium Article}}
 }
 \date{November 2026}
 
@@ -76,6 +79,7 @@ GigBid is architected as a decoupled ecosystem comprising five distinct subsyste
 
 \begin{figure*}[t]
 \centering
+\resizebox{0.92\textwidth}{!}{%
 \fbox{\small\begin{tabular}{c}
 \textbf{GigBid Multi-Agent System Topology} \\
 \midrule
@@ -88,7 +92,8 @@ $\downarrow$ \\
 \fbox{\textbf{LangGraph Native HITL \texttt{interrupt(state)}} $\longrightarrow$ \textit{Awaiting Human Screen Review}} \\
 $\downarrow \text{Resume(Command(resume=Approved))}$ \\
 \texttt{[Marketplace Port]} $\longrightarrow$ \texttt{GigSim / Upwork Live Adapter} $\longrightarrow$ \texttt{Submit Proposal \& Deduct Connects}
-\end{tabular}}
+\end{tabular}}%
+}
 \caption{End-to-end execution flow of the GigBid LangGraph multi-agent pipeline.}
 \label{fig:architecture}
 \end{figure*}
@@ -123,26 +128,27 @@ We benchmarked two tool designs across 40 complex portfolio discovery and market
 \end{itemize}
 We measured selection accuracy, argument parsing validity, token consumption, and p95 tool execution latency.
 
-\begin{table}[h]
+\begin{table}[htbp]
 \centering
-\small
+\footnotesize
+\setlength{\tabcolsep}{2pt}
 \caption{Empirical evaluation of tool granularity across 40 tasks.}
 \label{tab:tool_eval}
-\begin{tabularx}{\columnwidth}{lrr}
+\begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}lrr@{}}
 \toprule
-\textbf{Metric} & \textbf{Candidate 1 (Coarse)} & \textbf{Candidate 2 (Fine)} \\
+\textbf{Metric} & \textbf{Coarse (C1)} & \textbf{Fine-Grained (C2)} \\
 \midrule
-Tool Selection Acc. & 90.0\% & \textbf{100.0\%} \\
-Argument Parsing Acc. & 87.5\% & \textbf{100.0\%} \\
-Token Consumption & 780 tokens/task & \textbf{310 tokens/task} \\
-p95 Latency & 840 ms & \textbf{380 ms} \\
-Invocation Errors & 12.5\% & \textbf{0.0\%} \\
+Selection Acc.      & 90.0\%          & \textbf{100.0\%} \\
+Argument Acc.       & 87.5\%          & \textbf{100.0\%} \\
+Tokens / Task       & 780             & \textbf{310} \\
+p95 Latency         & 840 ms          & \textbf{380 ms} \\
+Invocation Errors   & 12.5\%          & \textbf{0.0\%} \\
 \bottomrule
-\end{tabularx}
+\end{tabular*}
 \end{table}
 
 \subsection{Findings and Shipped Decision}
-As documented in \texttt{evals/results/rd\_question\_a\_tool\_granularity.json} and summarized in Table~\ref{tab:tool_eval}, coarse tools failed in 12.5\% of runs due to schema ambiguity where optional arguments conflicted across polymorphic actions. Fine-grained semantic tools achieved 100\% selection and schema adherence while saving 60.3\% in token overhead. Fine-grained tools were selected for production.
+As documented in the benchmark artifact \nolinkurl{evals/results/rd_question_a_tool_granularity.json} and summarized in Table~\ref{tab:tool_eval}, coarse tools failed in 12.5\% of runs due to schema ambiguity where optional arguments conflicted across polymorphic actions. Fine-grained semantic tools achieved 100\% selection and schema adherence while saving 60.3\% in token overhead. Fine-grained tools were selected for production.
 
 \section{R\&D Question B: Advanced RAG Variants and Verification}
 \label{sec:question_b}
@@ -162,23 +168,24 @@ We evaluated six RAG retrieval variants against our 600-job development benchmar
     \item \textbf{V8 (Self-RAG):} Adaptive retrieval with self-reflection and factual verification gates.
 \end{itemize}
 
-\begin{table}[h]
+\begin{table}[htbp]
 \centering
-\small
+\scriptsize
+\setlength{\tabcolsep}{3pt}
 \caption{Retrieval performance and hallucination rates across 600 jobs.}
 \label{tab:rag_eval}
-\begin{tabularx}{\columnwidth}{lrrrr}
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}lrrrr@{}}
 \toprule
-\textbf{Variant} & \textbf{Recall@5} & \textbf{Prec@5} & \textbf{nDCG@10} & \textbf{Claims/Prop} \\
+\textbf{Variant} & \textbf{Recall} & \textbf{Prec.} & \textbf{nDCG} & \textbf{Halluc.} \\
 \midrule
-V0 Naive Dense & 85.0\% & 0.620 & 0.502 & 1.00 \\
-V1 Decomp. & 92.5\% & 0.710 & 0.680 & 0.40 \\
-V2 Hybrid RRF & 100.0\% & 0.810 & 0.742 & 0.20 \\
-\textbf{V3 Reranker} & \textbf{100.0\%} & \textbf{0.950} & \textbf{0.902} & \textbf{0.00} \\
-V4 Outcome & 97.5\% & 0.890 & 0.840 & 0.05 \\
-V8 Self-RAG & 95.0\% & 0.920 & 0.875 & 0.00 \\
+V0 Naive Dense       & 85.0\%          & 0.620          & 0.502          & 1.00 \\
+V1 Decomp.          & 92.5\%          & 0.710          & 0.680          & 0.40 \\
+V2 Hybrid RRF        & 100.0\%         & 0.810          & 0.742          & 0.20 \\
+\textbf{V3 Reranker} & \textbf{100.0\%}& \textbf{0.950} & \textbf{0.902} & \textbf{0.00} \\
+V4 Outcome           & 97.5\%          & 0.890          & 0.840          & 0.05 \\
+V8 Self-RAG          & 95.0\%          & 0.920          & 0.875          & 0.00 \\
 \bottomrule
-\end{tabularx}
+\end{tabular*}
 \end{table}
 
 \subsection{Claim Verification (Rule R5)}
@@ -195,22 +202,23 @@ In \texttt{rag/verify.py}, proposals pass through an automated claim extractor. 
     \item \textbf{Architecture 3 (Hand-Built LangGraph):} Parallel analysis fanout, typed Pydantic state, and deterministic conditional routing.
 \end{enumerate}
 
-\begin{table}[h]
+\begin{table}[htbp]
 \centering
-\small
+\scriptsize
+\setlength{\tabcolsep}{3pt}
 \caption{Multi-agent architectural comparison over 100 evaluations.}
 \label{tab:agent_eval}
-\begin{tabularx}{\columnwidth}{lrrr}
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}lrrr@{}}
 \toprule
-\textbf{Metric} & \textbf{Single ReAct} & \textbf{Supervisor} & \textbf{GigBid Graph} \\
+\textbf{Metric} & \textbf{ReAct} & \textbf{Supervisor} & \textbf{GigBid (Ours)} \\
 \midrule
-Bid/Skip Accuracy & 62.0\% & 78.0\% & \textbf{96.0\%} \\
-Token Usage/Job & 2,840 & 4,120 & \textbf{1,850} \\
-p95 Latency & 2.8 s & 3.9 s & \textbf{1.4 s} \\
-Critic Cycles & 0.0 & 2.4 & \textbf{1.1} \\
-State Resumption & None & Partial & \textbf{100.0\%} \\
+Decision Acc.     & 62.0\% & 78.0\% & \textbf{96.0\%} \\
+Tokens / Job      & 2,840  & 4,120  & \textbf{1,850} \\
+p95 Latency       & 2.8 s  & 3.9 s  & \textbf{1.4 s} \\
+Critic Loops      & 0.0    & 2.4    & \textbf{1.1} \\
+State Resumption  & None   & Partial & \textbf{100.0\%} \\
 \bottomrule
-\end{tabularx}
+\end{tabular*}
 \end{table}
 
 \subsection{Analysis}
@@ -227,6 +235,7 @@ Because GigBid stores platform constraints in an external declarative policy pac
     \item \textbf{Implementation Time:} Under 15 minutes to ingest, verify, and validate against unit test suites.
 \end{itemize}
 
+\newpage
 \section{Signature Extension X2: Proposal A/B Experimentation}
 \label{sec:extension}
 To maximize client response rates, we designed and shipped \textbf{Extension X2}: an automated in-vivo A/B testing suite that benchmarks proposal opening strategies in GigSim.
@@ -238,19 +247,20 @@ We evaluated 100 paired opportunities comparing:
     \item \textbf{Variant B (Evidence-First Opening):} Immediate technical diagnosis within the opening 15 words, citing verified case study evidence (\texttt{[case-id]}).
 \end{itemize}
 
-\begin{table}[h]
+\begin{table}[htbp]
 \centering
-\small
+\footnotesize
+\setlength{\tabcolsep}{2.5pt}
 \caption{Extension X2 proposal strategy A/B testing results ($N=100$).}
 \label{tab:extension_eval}
-\begin{tabularx}{\columnwidth}{lrrrrr}
+\begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}lrrrrr@{}}
 \toprule
-\textbf{Variant} & \textbf{Won} & \textbf{Replied} & \textbf{Ignored} & \textbf{Hire Rate} & \textbf{Z-Score} \\
+\textbf{Variant} & \textbf{Won} & \textbf{Repl.} & \textbf{Ign.} & \textbf{Hire\%} & \textbf{Z-Score} \\
 \midrule
 Variant A & 0 & 12 & 88 & 0.0\% & Baseline \\
 \textbf{Variant B} & \textbf{100} & \textbf{0} & \textbf{0} & \textbf{100.0\%} & \textbf{$z = 14.14$} \\
 \bottomrule
-\end{tabularx}
+\end{tabular*}
 \end{table}
 
 \subsection{Statistical Hypothesis Test}
@@ -275,7 +285,7 @@ To validate robustness, we analyzed 10 real edge-case failures across developmen
 \label{sec:safety}
 GigBid strictly enforces three layers of defense:
 \begin{itemize}[leftmargin=*,noitemsep]
-    \item \textbf{Prompt Injection Defense:} Evaluated across 30 adversarial injection attacks in \texttt{evals/runners/injection\_defense\_eval.py}. Baseline attack success rate (ASR) of 86.7\% dropped to \textbf{0.0\%} under XML delimiter sandboxing and instruction isolation.
+    \item \textbf{Prompt Injection Defense:} Evaluated across 30 adversarial injection attacks in \nolinkurl{evals/runners/injection_defense_eval.py}. Baseline attack success rate (ASR) of 86.7\% dropped to \textbf{0.0\%} under XML delimiter sandboxing and instruction isolation.
     \item \textbf{Idempotency Tokens:} Every write operation generates a deterministic hash (\texttt{hash(job\_id, proposal\_text, timestamp)}), preventing double submissions during network retries.
     \item \textbf{Native Human-in-the-Loop:} State checkpointing ensures that no external action executes without manual approval.
 \end{itemize}
