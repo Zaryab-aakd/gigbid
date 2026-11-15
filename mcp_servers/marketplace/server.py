@@ -1,6 +1,7 @@
 import os
 import uuid
 import asyncio
+import concurrent.futures
 from typing import Optional, List, Dict, Any
 from pydantic import BaseModel, Field
 from mcp.server.fastmcp import FastMCP
@@ -9,6 +10,16 @@ from agent.marketplace_port import get_marketplace_adapter
 mcp = FastMCP("MarketplaceServer", dependencies=["pydantic", "httpx"])
 
 adapter = get_marketplace_adapter()
+
+def _run_async(coro):
+    try:
+        loop = asyncio.get_running_loop()
+    except RuntimeError:
+        loop = None
+    if loop and loop.is_running():
+        with concurrent.futures.ThreadPoolExecutor(max_workers=1) as pool:
+            return pool.submit(asyncio.run, coro).result()
+    return asyncio.run(coro)
 
 # --- INPUT SCHEMAS WITH CONSTRAINTS ---
 
@@ -51,7 +62,7 @@ class ListMessagesInput(BaseModel):
 )
 def search_jobs_tool(query: Optional[str] = None, persona: Optional[str] = None, limit: int = 25) -> List[Dict[str, Any]]:
     """Read-only search of available jobs."""
-    return asyncio.run(adapter.search_jobs(query=query, persona=persona, limit=limit))
+    return _run_async(adapter.search_jobs(query=query, persona=persona, limit=limit))
 
 @mcp.tool(
     name="get_job",
@@ -59,7 +70,7 @@ def search_jobs_tool(query: Optional[str] = None, persona: Optional[str] = None,
 )
 def get_job_tool(job_id: str) -> Dict[str, Any]:
     """Read-only fetch of a single job."""
-    res = asyncio.run(adapter.get_job(job_id))
+    res = _run_async(adapter.get_job(job_id))
     if not res:
         return {"error": f"Job '{job_id}' not found."}
     return res
@@ -70,7 +81,7 @@ def get_job_tool(job_id: str) -> Dict[str, Any]:
 )
 def get_client_history_tool(client_id: str) -> Dict[str, Any]:
     """Read-only fetch of client background metrics."""
-    res = asyncio.run(adapter.get_client_history(client_id))
+    res = _run_async(adapter.get_client_history(client_id))
     if not res:
         return {"error": f"Client '{client_id}' not found."}
     return res
@@ -81,7 +92,7 @@ def get_client_history_tool(client_id: str) -> Dict[str, Any]:
 )
 def get_connects_balance_tool() -> Dict[str, Any]:
     """Read-only check of current Connects balance."""
-    return asyncio.run(adapter.get_connects_balance())
+    return _run_async(adapter.get_connects_balance())
 
 @mcp.tool(
     name="submit_proposal",
@@ -112,7 +123,7 @@ def submit_proposal_tool(
         "dry_run": dry_run,
         "idempotency_key": idempotency_key
     }
-    return asyncio.run(adapter.submit_proposal(payload))
+    return _run_async(adapter.submit_proposal(payload))
 
 @mcp.tool(
     name="send_message",
@@ -120,7 +131,7 @@ def submit_proposal_tool(
 )
 def send_message_tool(client_id: str, job_id: str, text: str, sender: str = "freelancer") -> Dict[str, Any]:
     """Send client communication message."""
-    return asyncio.run(adapter.send_message(client_id=client_id, job_id=job_id, text=text, sender=sender))
+    return _run_async(adapter.send_message(client_id=client_id, job_id=job_id, text=text, sender=sender))
 
 @mcp.tool(
     name="list_messages",
@@ -128,7 +139,7 @@ def send_message_tool(client_id: str, job_id: str, text: str, sender: str = "fre
 )
 def list_messages_tool(client_id: str, job_id: str) -> List[Dict[str, Any]]:
     """Read-only list of client messages."""
-    return asyncio.run(adapter.list_messages(client_id=client_id, job_id=job_id))
+    return _run_async(adapter.list_messages(client_id=client_id, job_id=job_id))
 
 if __name__ == "__main__":
     mcp.run()
