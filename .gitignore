@@ -13,6 +13,7 @@ starter_kit_extracted/
 extracted_*.txt
 full_*.txt
 GigBid_Student_Starter_Kit_v0.1.zip
+*.zip
 *.aux
 *.out
 *.log
