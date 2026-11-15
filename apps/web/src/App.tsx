@@ -18,7 +18,9 @@ import {
   UserProfileData
 } from "./types";
 
-const API_BASE = "http://localhost:8000";
+const API_BASE = typeof window !== "undefined" && window.location.origin.includes(":5173")
+  ? "http://localhost:8000"
+  : "";
 
 export const App: React.FC = () => {
   const [currentTab, setCurrentTab] = useState<string>("inbox");

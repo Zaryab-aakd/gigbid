@@ -31,7 +31,10 @@ export const AgentRunViewerScreen: React.FC<AgentRunViewerScreenProps> = ({
   const [isComplete, setIsComplete] = useState(false);
 
   useEffect(() => {
-    const eventSource = new EventSource(`http://localhost:8000/api/stream/bid/${jobId}`);
+    const apiBase = typeof window !== "undefined" && window.location.origin.includes(":5173")
+      ? "http://localhost:8000"
+      : "";
+    const eventSource = new EventSource(`${apiBase}/api/stream/bid/${jobId}`);
 
     eventSource.onmessage = (e) => {
       try {
