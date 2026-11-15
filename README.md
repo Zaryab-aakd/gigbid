@@ -1,6 +1,8 @@
 # GigBid — Multi-Agent Freelancer Copilot
 
 [![Live Demo](https://img.shields.io/badge/Live%20Deployment-Render%20Online-success.svg)](https://gigbid-v4bt.onrender.com/)
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-Google%20Drive-red.svg)](https://drive.google.com/file/d/1OO48Nlfl6e-MOjTchK59lZ0aGUlfXB6f/view?usp=drive_link)
+[![Technical Write-up](https://img.shields.io/badge/Technical%20Article-Medium-black.svg)](https://medium.com/@i221212/the-opening-paradox-why-being-polite-costs-freelancers-clients-and-how-cross-encoder-rag-fixes-46ae61f4e004?sharedUserId=i221212)
 [![GigBid CI](https://github.com/Zaryab-aakd/gigbid/actions/workflows/ci.yml/badge.svg)](https://github.com/Zaryab-aakd/gigbid/actions/workflows/ci.yml)
 [![Eval Gate](https://github.com/Zaryab-aakd/gigbid/actions/workflows/eval.yml/badge.svg)](https://github.com/Zaryab-aakd/gigbid/actions/workflows/eval.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -12,7 +14,10 @@
 >
 > **Author:** Zaryab Durrani (Roll No: `22i-1212`, `i221212@nu.edu.pk`)  
 > **Live Deployed Application:** [https://gigbid-v4bt.onrender.com/](https://gigbid-v4bt.onrender.com/)  
-> **Public GitHub Repository:** [https://github.com/Zaryab-aakd/gigbid](https://github.com/Zaryab-aakd/gigbid)
+> **Public GitHub Repository:** [https://github.com/Zaryab-aakd/gigbid](https://github.com/Zaryab-aakd/gigbid)  
+> **3-Minute Demo Video:** [Watch on Google Drive](https://drive.google.com/file/d/1OO48Nlfl6e-MOjTchK59lZ0aGUlfXB6f/view?usp=drive_link)  
+> **Technical Write-up:** [Read on Medium](https://medium.com/@i221212/the-opening-paradox-why-being-polite-costs-freelancers-clients-and-how-cross-encoder-rag-fixes-46ae61f4e004?sharedUserId=i221212)
+
 
 
 ---
